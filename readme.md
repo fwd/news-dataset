@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 28, 2024 9:54 PM
+- Updated: Mar 29, 2024 9:54 AM
 
 ```
 {
-    "title": "Germany rushes 10.000 artillery rounds to Ukraine in days",
-    "domain": "euromaidanpress.com",
-    "category": "ukraine",
-    "link": "https://euromaidanpress.com/2024/03/28/germany-rushes-10-000-artillery-rounds-to-ukraine-in-days/",
-    "timestamp": 1711606175,
-    "recorded": "March 28, 2024 2:09 AM"
+    "title": "Poland scrambles jets during Russian missile attack",
+    "domain": "kyivindependent.com",
+    "category": "worldnews",
+    "link": "https://kyivindependent.com/poland-scrambles-jets-during-russian-missile-attack/",
+    "timestamp": 1711686262,
+    "recorded": "March 29, 2024 12:24 AM"
 }
 ```
 
