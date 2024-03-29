@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 28, 2024 9:54 AM
+- Updated: Mar 28, 2024 9:54 PM
 
 ```
 {
-    "title": "Powerlifter from Japan maintains culture center in Kyiv during war",
-    "domain": "asahi.com",
+    "title": "Germany rushes 10.000 artillery rounds to Ukraine in days",
+    "domain": "euromaidanpress.com",
     "category": "ukraine",
-    "link": "https://www.asahi.com/ajw/articles/15190233",
-    "timestamp": 1711599819,
-    "recorded": "March 28, 2024 12:23 AM"
+    "link": "https://euromaidanpress.com/2024/03/28/germany-rushes-10-000-artillery-rounds-to-ukraine-in-days/",
+    "timestamp": 1711606175,
+    "recorded": "March 28, 2024 2:09 AM"
 }
 ```
 
