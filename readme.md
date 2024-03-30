@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 29, 2024 9:54 PM
+- Updated: Mar 30, 2024 9:54 AM
 
 ```
 {
-    "title": "Poland scrambles jets during Russian missile attack",
-    "domain": "kyivindependent.com",
+    "title": "Indian Navy saves Pakistani crew from hijacked Iranian vessel",
+    "domain": "livemint.com",
     "category": "worldnews",
-    "link": "https://kyivindependent.com/poland-scrambles-jets-during-russian-missile-attack/",
-    "timestamp": 1711686262,
-    "recorded": "March 29, 2024 12:24 AM"
+    "link": "https://www.livemint.com/news/india/arabian-sea-operation-indian-navy-saves-pakistani-crew-from-hijacked-iranian-vessel-11711759041098.html",
+    "timestamp": 1711772758,
+    "recorded": "March 30, 2024 12:25 AM"
 }
 ```
 
