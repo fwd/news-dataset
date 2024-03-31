@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 30, 2024 9:54 PM
+- Updated: Mar 31, 2024 9:54 AM
 
 ```
 {
-    "title": "Indian Navy saves Pakistani crew from hijacked Iranian vessel",
-    "domain": "livemint.com",
-    "category": "worldnews",
-    "link": "https://www.livemint.com/news/india/arabian-sea-operation-indian-navy-saves-pakistani-crew-from-hijacked-iranian-vessel-11711759041098.html",
-    "timestamp": 1711772758,
-    "recorded": "March 30, 2024 12:25 AM"
+    "title": "Emhoff says Trump’s ‘disgusting, toxic, antisemitic’ comments should be ‘condemned’",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/homenews/administration/4543093-emhoff-says-trumps-disgusting-toxic-antisemitic-comments-should-be-condemned/",
+    "timestamp": 1711861206,
+    "recorded": "March 31, 2024 1:00 AM"
 }
 ```
 
