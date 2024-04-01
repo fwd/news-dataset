@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 31, 2024 9:54 AM
+- Updated: Mar 31, 2024 9:54 PM
 
 ```
 {
-    "title": "Emhoff says Trump’s ‘disgusting, toxic, antisemitic’ comments should be ‘condemned’",
-    "domain": "thehill.com",
-    "category": "politics",
-    "link": "https://thehill.com/homenews/administration/4543093-emhoff-says-trumps-disgusting-toxic-antisemitic-comments-should-be-condemned/",
-    "timestamp": 1711861206,
-    "recorded": "March 31, 2024 1:00 AM"
+    "title": "Malaysia mini-mart outlet attacked after 'Allah socks' outcry",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/world/asia-pacific/malaysia-mini-mart-outlet-attacked-after-allah-socks-outcry-2024-03-30/",
+    "timestamp": 1711860677,
+    "recorded": "March 31, 2024 12:51 AM"
 }
 ```
 
