@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 31, 2024 9:54 PM
+- Updated: Apr 1, 2024 9:54 AM
 
 ```
 {
-    "title": "Malaysia mini-mart outlet attacked after 'Allah socks' outcry",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/world/asia-pacific/malaysia-mini-mart-outlet-attacked-after-allah-socks-outcry-2024-03-30/",
-    "timestamp": 1711860677,
-    "recorded": "March 31, 2024 12:51 AM"
+    "title": "Antibacterial activity of nonantibiotics is orthogonal to standard antibiotics",
+    "domain": "science.org",
+    "category": "science",
+    "link": "https://www.science.org/doi/10.1126/science.adk7368",
+    "timestamp": 1711944808,
+    "recorded": "April 1, 2024 12:13 AM"
 }
 ```
 
