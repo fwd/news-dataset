@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 2, 2024 9:54 PM
+- Updated: Apr 3, 2024 9:54 AM
 
 ```
 {
-    "title": "Biden campaign announces it will target flipping Trump’s Florida",
-    "domain": "thehill.com",
+    "title": "Hillary Clinton tells voters to ‘get over yourself’ when it comes to Biden-Trump rematch",
+    "domain": "cnn.com",
     "category": "politics",
-    "link": "https://thehill.com/homenews/4568696-biden-campaign-announces-it-will-target-flipping-trumps-florida/",
-    "timestamp": 1712032544,
-    "recorded": "April 2, 2024 12:35 AM"
+    "link": "https://www.cnn.com/videos/politics/2024/04/03/hillary-clinton-fallon-interview-biden-trump-stephen-a-smith-nn-vpx.cnn",
+    "timestamp": 1712117512,
+    "recorded": "April 3, 2024 12:11 AM"
 }
 ```
 
