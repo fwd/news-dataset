@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 2, 2024 9:54 AM
+- Updated: Apr 2, 2024 9:54 PM
 
 ```
 {
-    "title": "U.S. tells Iran it \"had no involvement\" in Israel strike",
-    "domain": "axios.com",
-    "category": "worldnews",
-    "link": "https://www.axios.com/2024/04/02/iran-embassy-syria-israel-strike-biden",
-    "timestamp": 1712032344,
-    "recorded": "April 2, 2024 12:32 AM"
+    "title": "Biden campaign announces it will target flipping Trump’s Florida",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/homenews/4568696-biden-campaign-announces-it-will-target-flipping-trumps-florida/",
+    "timestamp": 1712032544,
+    "recorded": "April 2, 2024 12:35 AM"
 }
 ```
 
