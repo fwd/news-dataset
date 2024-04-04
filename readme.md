@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 3, 2024 9:54 PM
+- Updated: Apr 4, 2024 9:54 AM
 
 ```
 {
-    "title": "Putin army hit by 'loss' of 12 tanks and 8 infantry vehicles as major assault fails in Ukraine's east",
-    "domain": "news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://news.yahoo.com/putin-battalion-sized-assault-fails-172611376.html",
-    "timestamp": 1712117562,
-    "recorded": "April 3, 2024 12:12 AM"
+    "title": "New Law Allowing Religion into Science Classrooms Is Dangerous for Everyone | It is imperative that we protect science education from “intelligent design” and other alternative “theories”",
+    "domain": "scientificamerican.com",
+    "category": "politics",
+    "link": "https://www.scientificamerican.com/article/new-law-allowing-religion-into-science-classrooms-is-dangerous-for-everyone/",
+    "timestamp": 1712205407,
+    "recorded": "April 4, 2024 12:36 AM"
 }
 ```
 
