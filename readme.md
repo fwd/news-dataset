@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 3, 2024 9:54 AM
+- Updated: Apr 3, 2024 9:54 PM
 
 ```
 {
-    "title": "Hillary Clinton tells voters to ‘get over yourself’ when it comes to Biden-Trump rematch",
-    "domain": "cnn.com",
-    "category": "politics",
-    "link": "https://www.cnn.com/videos/politics/2024/04/03/hillary-clinton-fallon-interview-biden-trump-stephen-a-smith-nn-vpx.cnn",
-    "timestamp": 1712117512,
-    "recorded": "April 3, 2024 12:11 AM"
+    "title": "Putin army hit by 'loss' of 12 tanks and 8 infantry vehicles as major assault fails in Ukraine's east",
+    "domain": "news.yahoo.com",
+    "category": "worldnews",
+    "link": "https://news.yahoo.com/putin-battalion-sized-assault-fails-172611376.html",
+    "timestamp": 1712117562,
+    "recorded": "April 3, 2024 12:12 AM"
 }
 ```
 
