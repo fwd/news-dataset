@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 4, 2024 9:54 AM
+- Updated: Apr 4, 2024 9:54 PM
 
 ```
 {
-    "title": "New Law Allowing Religion into Science Classrooms Is Dangerous for Everyone | It is imperative that we protect science education from “intelligent design” and other alternative “theories”",
-    "domain": "scientificamerican.com",
-    "category": "politics",
-    "link": "https://www.scientificamerican.com/article/new-law-allowing-religion-into-science-classrooms-is-dangerous-for-everyone/",
-    "timestamp": 1712205407,
-    "recorded": "April 4, 2024 12:36 AM"
+    "title": "Study: Sea anemones that react more slowly to change can survive a heatwave better than individuals that change their behaviour quickly",
+    "domain": "eurekalert.org",
+    "category": "science",
+    "link": "https://www.eurekalert.org/news-releases/1040000",
+    "timestamp": 1712211239,
+    "recorded": "April 4, 2024 2:13 AM"
 }
 ```
 
