@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 5, 2024 9:54 PM
+- Updated: Apr 6, 2024 9:54 AM
 
 ```
 {
-    "title": "Extinction risk to southern resident orcas accelerating as researchers raise alarm - In their model, the scientists found the southern residents declining in population until falling off a cliff in about 50 years",
-    "domain": "seattletimes.com",
-    "category": "science",
-    "link": "https://www.seattletimes.com/seattle-news/climate-lab/extinction-risk-to-southern-resident-orcas-accelerating-as-researchers-raise-alarm/",
-    "timestamp": 1712290244,
-    "recorded": "April 5, 2024 12:10 AM"
+    "title": "Texas Gov. Greg Abbott Already Managed to Screw Up the Eclipse. | The town of Eagle Pass planned a money-making festival—instead they got razor wire and armed soldiers.",
+    "domain": "thedailybeast.com",
+    "category": "politics",
+    "link": "https://www.thedailybeast.com/texas-gov-greg-abbott-already-managed-to-screw-up-the-eclipse?ref=home?ref=home",
+    "timestamp": 1712376111,
+    "recorded": "April 6, 2024 12:01 AM"
 }
 ```
 
