@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 6, 2024 9:54 PM
+- Updated: Apr 7, 2024 9:54 AM
 
 ```
 {
-    "title": "Three killed after high winds pull them out of their apartments in China | CNN",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2024/04/05/asia/three-killed-high-winds-china-intl-hnk/index.html",
-    "timestamp": 1712377531,
-    "recorded": "April 6, 2024 12:25 AM"
+    "title": "Yellen says global concerns growing over China's excess industrial capacity",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/business/yellen-launches-contentious-meetings-chinese-excess-production-threat-2024-04-05/",
+    "timestamp": 1712465849,
+    "recorded": "April 7, 2024 12:57 AM"
 }
 ```
 
