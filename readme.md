@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 7, 2024 9:54 PM
+- Updated: Apr 8, 2024 9:54 AM
 
 ```
 {
-    "title": "New Family Tree Revises Our Understanding of Bird Evolution",
-    "domain": "today.ucsd.edu",
+    "title": "A Comparative Analysis on the Potential Anticancer Properties of Tetrahydrocannabinol, Cannabidiol, and Tetrahydrocannabivarin Compounds Through In Silico Approach | Asian Pacific Journal of Cancer Prevention [Mar 2024]",
+    "domain": "doi.org",
     "category": "science",
-    "link": "https://today.ucsd.edu/story/computational-tools-fuel-reconstruction-of-new-and-improved-bird-family-tree",
-    "timestamp": 1712467582,
-    "recorded": "April 7, 2024 1:26 AM"
+    "link": "https://doi.org/10.31557/APJCP.2024.25.3.839",
+    "timestamp": 1712549963,
+    "recorded": "April 8, 2024 12:19 AM"
 }
 ```
 
