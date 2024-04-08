@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 7, 2024 9:54 AM
+- Updated: Apr 7, 2024 9:54 PM
 
 ```
 {
-    "title": "Yellen says global concerns growing over China's excess industrial capacity",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/business/yellen-launches-contentious-meetings-chinese-excess-production-threat-2024-04-05/",
-    "timestamp": 1712465849,
-    "recorded": "April 7, 2024 12:57 AM"
+    "title": "New Family Tree Revises Our Understanding of Bird Evolution",
+    "domain": "today.ucsd.edu",
+    "category": "science",
+    "link": "https://today.ucsd.edu/story/computational-tools-fuel-reconstruction-of-new-and-improved-bird-family-tree",
+    "timestamp": 1712467582,
+    "recorded": "April 7, 2024 1:26 AM"
 }
 ```
 
