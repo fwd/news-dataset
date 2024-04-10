@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 60k
 - File Type: JSON
-- File Size: ~**22MB**
+- File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 9, 2024 9:54 PM
+- Updated: Apr 10, 2024 9:54 AM
 
 ```
 {
-    "title": "Russian missile ship set on fire near Kaliningrad, Ukraine's intelligence claims",
-    "domain": "kyivindependent.com",
+    "title": "Russia’s GPS meddling in the Baltic Sea demands NATO action, Sweden’s naval chief says",
+    "domain": "defenseone.com",
     "category": "worldnews",
-    "link": "https://kyivindependent.com/ukraine-war-latest-russian-missile-ship-set-on-fire-near-kaliningrad-ukraines-intelligence-claims/",
-    "timestamp": 1712643796,
-    "recorded": "April 9, 2024 2:23 AM"
+    "link": "https://www.defenseone.com/threats/2024/04/russias-gps-meddling-baltic-sea-demands-nato-action-swedens-naval-chief-says/395607/",
+    "timestamp": 1712722245,
+    "recorded": "April 10, 2024 12:10 AM"
 }
 ```
 
