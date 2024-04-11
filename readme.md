@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 10, 2024 9:54 PM
+- Updated: Apr 11, 2024 9:54 AM
 
 ```
 {
-    "title": "Russia’s GPS meddling in the Baltic Sea demands NATO action, Sweden’s naval chief says",
-    "domain": "defenseone.com",
-    "category": "worldnews",
-    "link": "https://www.defenseone.com/threats/2024/04/russias-gps-meddling-baltic-sea-demands-nato-action-swedens-naval-chief-says/395607/",
-    "timestamp": 1712722245,
-    "recorded": "April 10, 2024 12:10 AM"
+    "title": "Lara Trump Peddles 'Massive Fraud' 2020 Election Claim in RNC Robocall - Donald Trump's daughter-in-law spread his election fraud lies in a scripted call to voters’ phones",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/lara-trump-rnc-robocall-election-claims-1235002390/",
+    "timestamp": 1712809485,
+    "recorded": "April 11, 2024 12:24 AM"
 }
 ```
 
