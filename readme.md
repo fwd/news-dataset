@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 11, 2024 9:54 PM
+- Updated: Apr 12, 2024 9:54 AM
 
 ```
 {
-    "title": "An 85-year-old woman was handcuffed to a chair during an armed home invasion. She killed the robber and survived.",
-    "domain": "eastidahonews.com",
-    "category": "news",
-    "link": "https://www.eastidahonews.com/2024/04/an-85-year-old-woman-was-handcuffed-to-a-chair-during-an-armed-home-invasion-heres-how-she-killed-the-robber-and-survived/",
-    "timestamp": 1712816827,
-    "recorded": "April 11, 2024 2:27 AM"
+    "title": "Judge in Trump's election interference case rejects 'hostages' label for jailed Jan. 6 defendants",
+    "domain": "abcnews.go.com",
+    "category": "politics",
+    "link": "https://abcnews.go.com/US/wireStory/judge-trumps-election-interference-case-rejects-hostages-label-109106419",
+    "timestamp": 1712895436,
+    "recorded": "April 12, 2024 12:17 AM"
 }
 ```
 
