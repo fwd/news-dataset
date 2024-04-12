@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 11, 2024 9:54 AM
+- Updated: Apr 11, 2024 9:54 PM
 
 ```
 {
-    "title": "Lara Trump Peddles 'Massive Fraud' 2020 Election Claim in RNC Robocall - Donald Trump's daughter-in-law spread his election fraud lies in a scripted call to voters’ phones",
-    "domain": "rollingstone.com",
-    "category": "politics",
-    "link": "https://www.rollingstone.com/politics/politics-news/lara-trump-rnc-robocall-election-claims-1235002390/",
-    "timestamp": 1712809485,
-    "recorded": "April 11, 2024 12:24 AM"
+    "title": "An 85-year-old woman was handcuffed to a chair during an armed home invasion. She killed the robber and survived.",
+    "domain": "eastidahonews.com",
+    "category": "news",
+    "link": "https://www.eastidahonews.com/2024/04/an-85-year-old-woman-was-handcuffed-to-a-chair-during-an-armed-home-invasion-heres-how-she-killed-the-robber-and-survived/",
+    "timestamp": 1712816827,
+    "recorded": "April 11, 2024 2:27 AM"
 }
 ```
 
