@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 12, 2024 9:54 AM
+- Updated: Apr 12, 2024 9:54 PM
 
 ```
 {
-    "title": "Judge in Trump's election interference case rejects 'hostages' label for jailed Jan. 6 defendants",
-    "domain": "abcnews.go.com",
-    "category": "politics",
-    "link": "https://abcnews.go.com/US/wireStory/judge-trumps-election-interference-case-rejects-hostages-label-109106419",
-    "timestamp": 1712895436,
-    "recorded": "April 12, 2024 12:17 AM"
+    "title": "First fractal molecule in nature is discovered. A natural protein that follows a mathematical pattern of self-similarity.",
+    "domain": "mpg.de",
+    "category": "science",
+    "link": "https://www.mpg.de/21811459/0410-terr-discovery-of-the-first-fractal-molecule-in-nature-153410-x",
+    "timestamp": 1712899490,
+    "recorded": "April 12, 2024 1:24 AM"
 }
 ```
 
