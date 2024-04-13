@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 12, 2024 9:54 PM
+- Updated: Apr 13, 2024 9:54 AM
 
 ```
 {
-    "title": "First fractal molecule in nature is discovered. A natural protein that follows a mathematical pattern of self-similarity.",
-    "domain": "mpg.de",
-    "category": "science",
-    "link": "https://www.mpg.de/21811459/0410-terr-discovery-of-the-first-fractal-molecule-in-nature-153410-x",
-    "timestamp": 1712899490,
-    "recorded": "April 12, 2024 1:24 AM"
+    "title": "Dozens of Palestinians killed in Gaza as Hamas official vows to 'break' Israel",
+    "domain": "yahoo.com",
+    "category": "worldnews",
+    "link": "https://www.yahoo.com/news/dozens-palestinians-killed-gaza-hamas-130647886.html",
+    "timestamp": 1712982847,
+    "recorded": "April 13, 2024 12:34 AM"
 }
 ```
 
