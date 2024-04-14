@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 13, 2024 9:54 AM
+- Updated: Apr 13, 2024 9:54 PM
 
 ```
 {
-    "title": "Dozens of Palestinians killed in Gaza as Hamas official vows to 'break' Israel",
-    "domain": "yahoo.com",
-    "category": "worldnews",
-    "link": "https://www.yahoo.com/news/dozens-palestinians-killed-gaza-hamas-130647886.html",
-    "timestamp": 1712982847,
-    "recorded": "April 13, 2024 12:34 AM"
+    "title": "Netherlands allocates additional $1.5 billion in aid for Ukraine",
+    "domain": "kyivindependent.com",
+    "category": "ukraine",
+    "link": "https://kyivindependent.com/netherlands-allocates-additional-1-5-billion-in-aid-for-ukraine/",
+    "timestamp": 1712984674,
+    "recorded": "April 13, 2024 1:04 AM"
 }
 ```
 
