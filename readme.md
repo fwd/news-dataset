@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 60k
+- Articles: 61k
 - File Type: JSON
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 13, 2024 9:54 PM
+- Updated: Apr 14, 2024 9:54 AM
 
 ```
 {
-    "title": "Netherlands allocates additional $1.5 billion in aid for Ukraine",
-    "domain": "kyivindependent.com",
-    "category": "ukraine",
-    "link": "https://kyivindependent.com/netherlands-allocates-additional-1-5-billion-in-aid-for-ukraine/",
-    "timestamp": 1712984674,
-    "recorded": "April 13, 2024 1:04 AM"
+    "title": "Biden told Netanyahu U.S. won't support an Israeli counterattack on Iran",
+    "domain": "axios.com",
+    "category": "worldnews",
+    "link": "https://www.axios.com/2024/04/14/biden-netanyahu-iran-israel-us-wont-support",
+    "timestamp": 1713069106,
+    "recorded": "April 14, 2024 12:31 AM"
 }
 ```
 
