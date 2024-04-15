@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 14, 2024 9:54 PM
+- Updated: Apr 15, 2024 9:54 AM
 
 ```
 {
-    "title": "Biden told Netanyahu U.S. won't support an Israeli counterattack on Iran",
-    "domain": "axios.com",
-    "category": "worldnews",
-    "link": "https://www.axios.com/2024/04/14/biden-netanyahu-iran-israel-us-wont-support",
-    "timestamp": 1713069106,
-    "recorded": "April 14, 2024 12:31 AM"
+    "title": "Systematic review finds women may respond better to antipsychotics and mood stabilizers but also experience more adverse side effects",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165032724003471",
+    "timestamp": 1713156919,
+    "recorded": "April 15, 2024 12:55 AM"
 }
 ```
 
