@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 15, 2024 9:54 PM
+- Updated: Apr 16, 2024 9:54 AM
 
 ```
 {
-    "title": "Systematic review finds women may respond better to antipsychotics and mood stabilizers but also experience more adverse side effects",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165032724003471",
-    "timestamp": 1713156919,
-    "recorded": "April 15, 2024 12:55 AM"
+    "title": "US accuses Hamas of being 'obstacle' to Gaza truce after it rejected Israel's proposal",
+    "domain": "timesofisrael.com",
+    "category": "worldnews",
+    "link": "https://www.timesofisrael.com/us-accuses-hamas-of-being-obstacle-to-gaza-truce-after-rejecting-israels-proposal/",
+    "timestamp": 1713242247,
+    "recorded": "April 16, 2024 12:37 AM"
 }
 ```
 
