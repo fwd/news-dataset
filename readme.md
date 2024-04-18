@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 17, 2024 9:54 PM
+- Updated: Apr 18, 2024 9:54 AM
 
 ```
 {
-    "title": "Dubai sees severe flooding after getting 2 years' worth of rain in 24 hours",
-    "domain": "abcnews.go.com",
-    "category": "worldnews",
-    "link": "https://abcnews.go.com/International/dubai-flooding-heavy-rainfall/story?id=109321601",
-    "timestamp": 1713327582,
-    "recorded": "April 17, 2024 12:19 AM"
+    "title": "911 outage reported across multiple US states, officials say",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/world/us/911-outage-reported-across-multiple-us-states-officials-say-2024-04-18/",
+    "timestamp": 1713413351,
+    "recorded": "April 18, 2024 12:09 AM"
 }
 ```
 
