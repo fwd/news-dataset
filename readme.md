@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 18, 2024 9:54 PM
+- Updated: Apr 19, 2024 9:54 AM
 
 ```
 {
-    "title": "911 outage reported across multiple US states, officials say",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/world/us/911-outage-reported-across-multiple-us-states-officials-say-2024-04-18/",
-    "timestamp": 1713413351,
-    "recorded": "April 18, 2024 12:09 AM"
+    "title": "Argentina asks to join NATO as President Milei seeks a more prominent role for his nation",
+    "domain": "apnews.com",
+    "category": "worldnews",
+    "link": "https://apnews.com/article/president-milei-argentina-nato-f16s-military-bf56ef4b18646438500c921250c66e93",
+    "timestamp": 1713500197,
+    "recorded": "April 19, 2024 12:16 AM"
 }
 ```
 
