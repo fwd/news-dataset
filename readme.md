@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 19, 2024 9:54 AM
+- Updated: Apr 19, 2024 9:54 PM
 
 ```
 {
-    "title": "Argentina asks to join NATO as President Milei seeks a more prominent role for his nation",
-    "domain": "apnews.com",
-    "category": "worldnews",
-    "link": "https://apnews.com/article/president-milei-argentina-nato-f16s-military-bf56ef4b18646438500c921250c66e93",
-    "timestamp": 1713500197,
-    "recorded": "April 19, 2024 12:16 AM"
+    "title": "Characterization of the Small Bowel Microbiome Reveals Different Profiles in Human Subjects who are Overweight or have Obesity.",
+    "domain": "journals.lww.com",
+    "category": "science",
+    "link": "https://journals.lww.com/ajg/abstract/9900/characterization_of_the_small_bowel_microbiome.1104.aspx",
+    "timestamp": 1713502482,
+    "recorded": "April 19, 2024 12:54 AM"
 }
 ```
 
