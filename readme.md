@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 19, 2024 9:54 PM
+- Updated: Apr 20, 2024 9:54 AM
 
 ```
 {
-    "title": "Characterization of the Small Bowel Microbiome Reveals Different Profiles in Human Subjects who are Overweight or have Obesity.",
-    "domain": "journals.lww.com",
-    "category": "science",
-    "link": "https://journals.lww.com/ajg/abstract/9900/characterization_of_the_small_bowel_microbiome.1104.aspx",
-    "timestamp": 1713502482,
-    "recorded": "April 19, 2024 12:54 AM"
+    "title": "South Korea voices strong regrets over Japanese textbooks distorting wartime history",
+    "domain": "m.koreatimes.co.kr",
+    "category": "worldnews",
+    "link": "https://m.koreatimes.co.kr/pages/article.asp?newsIdx=373082",
+    "timestamp": 1713588137,
+    "recorded": "April 20, 2024 12:42 AM"
 }
 ```
 
