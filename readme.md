@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 20, 2024 9:54 PM
+- Updated: Apr 21, 2024 9:54 AM
 
 ```
 {
-    "title": "Volkswagen workers vote overwhelmingly to join the UAW, giving the union a groundbreaking win | CNN Business",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html",
-    "timestamp": 1713589799,
-    "recorded": "April 20, 2024 1:09 AM"
+    "title": "Thousands of Israelis join anti-government protests",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/middle-east/thousands-israelis-join-anti-government-protests-calling-new-elections-2024-04-20/",
+    "timestamp": 1713674490,
+    "recorded": "April 21, 2024 12:41 AM"
 }
 ```
 
