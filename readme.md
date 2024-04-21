@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 20, 2024 9:54 AM
+- Updated: Apr 20, 2024 9:54 PM
 
 ```
 {
-    "title": "South Korea voices strong regrets over Japanese textbooks distorting wartime history",
-    "domain": "m.koreatimes.co.kr",
-    "category": "worldnews",
-    "link": "https://m.koreatimes.co.kr/pages/article.asp?newsIdx=373082",
-    "timestamp": 1713588137,
-    "recorded": "April 20, 2024 12:42 AM"
+    "title": "Volkswagen workers vote overwhelmingly to join the UAW, giving the union a groundbreaking win | CNN Business",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2024/04/19/business/volkswagen-uaw-vote/index.html",
+    "timestamp": 1713589799,
+    "recorded": "April 20, 2024 1:09 AM"
 }
 ```
 
