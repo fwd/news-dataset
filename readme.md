@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 21, 2024 9:54 PM
+- Updated: Apr 22, 2024 9:54 AM
 
 ```
 {
-    "title": "House Democrat introduces bill aimed at Trump that would strip Secret Service protection from felons",
-    "domain": "nypost.com",
+    "title": "Tuberville echoes Trump, says Democrats support abortion ‘past the birth of the baby’",
+    "domain": "al.com",
     "category": "politics",
-    "link": "https://nypost.com/2024/04/19/us-news/house-democrat-introduces-bill-aimed-at-trump-that-would-strip-secret-service-protection-from-felons/",
-    "timestamp": 1713678722,
-    "recorded": "April 21, 2024 1:52 AM"
+    "link": "https://www.al.com/news/2024/04/tuberville-echoes-trump-says-democrats-support-abortion-past-the-birth-of-the-baby.html",
+    "timestamp": 1713759957,
+    "recorded": "April 22, 2024 12:25 AM"
 }
 ```
 
