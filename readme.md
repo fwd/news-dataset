@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 61k
+- Articles: 62k
 - File Type: JSON
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 21, 2024 9:54 AM
+- Updated: Apr 21, 2024 9:54 PM
 
 ```
 {
-    "title": "Thousands of Israelis join anti-government protests",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/middle-east/thousands-israelis-join-anti-government-protests-calling-new-elections-2024-04-20/",
-    "timestamp": 1713674490,
-    "recorded": "April 21, 2024 12:41 AM"
+    "title": "House Democrat introduces bill aimed at Trump that would strip Secret Service protection from felons",
+    "domain": "nypost.com",
+    "category": "politics",
+    "link": "https://nypost.com/2024/04/19/us-news/house-democrat-introduces-bill-aimed-at-trump-that-would-strip-secret-service-protection-from-felons/",
+    "timestamp": 1713678722,
+    "recorded": "April 21, 2024 1:52 AM"
 }
 ```
 
