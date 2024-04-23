@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 22, 2024 9:54 AM
+- Updated: Apr 22, 2024 9:54 PM
 
 ```
 {
-    "title": "Tuberville echoes Trump, says Democrats support abortion ‘past the birth of the baby’",
-    "domain": "al.com",
-    "category": "politics",
-    "link": "https://www.al.com/news/2024/04/tuberville-echoes-trump-says-democrats-support-abortion-past-the-birth-of-the-baby.html",
-    "timestamp": 1713759957,
-    "recorded": "April 22, 2024 12:25 AM"
+    "title": "Ceremony held for opening of new Noe Valley public restroom that almost cost $1.3M",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/sanfrancisco/video/ceremony-held-for-opening-of-new-noe-valley-public-restroom-that-almost-cost-1-3m/?intcid=CNM-00-10abd1h",
+    "timestamp": 1713763383,
+    "recorded": "April 22, 2024 1:23 AM"
 }
 ```
 
