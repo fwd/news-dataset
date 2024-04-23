@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 22, 2024 9:54 PM
+- Updated: Apr 23, 2024 9:54 AM
 
 ```
 {
-    "title": "Ceremony held for opening of new Noe Valley public restroom that almost cost $1.3M",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/sanfrancisco/video/ceremony-held-for-opening-of-new-noe-valley-public-restroom-that-almost-cost-1-3m/?intcid=CNM-00-10abd1h",
-    "timestamp": 1713763383,
-    "recorded": "April 22, 2024 1:23 AM"
+    "title": "Former Jan. 6 panel chair seeks to strip Secret Service protection from felons",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/homenews/house/4605774-former-jan-6-panel-chair-bill-secret-service-protection-felons/",
+    "timestamp": 1713851159,
+    "recorded": "April 23, 2024 1:45 AM"
 }
 ```
 
