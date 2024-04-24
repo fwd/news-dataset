@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 23, 2024 9:54 PM
+- Updated: Apr 24, 2024 9:54 AM
 
 ```
 {
-    "title": "Minnesota State Sen. Nicole Mitchell arrested in Detroit Lakes on suspicion of burglary",
-    "domain": "cbsnews.com",
+    "title": "Emergency rooms refused to treat pregnant women, leaving one to miscarry in a lobby restroom",
+    "domain": "apnews.com",
     "category": "news",
-    "link": "https://www.cbsnews.com/minnesota/news/minnesota-state-senator-nicole-mitchell-arrested-detroit-lakes/",
-    "timestamp": 1713852907,
-    "recorded": "April 23, 2024 2:15 AM"
+    "link": "https://apnews.com/article/pregnancy-emergency-care-abortion-supreme-court-roe-9ce6c87c8fc653c840654de1ae5f7a1c",
+    "timestamp": 1713932402,
+    "recorded": "April 24, 2024 12:20 AM"
 }
 ```
 
