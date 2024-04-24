@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 23, 2024 9:54 AM
+- Updated: Apr 23, 2024 9:54 PM
 
 ```
 {
-    "title": "Former Jan. 6 panel chair seeks to strip Secret Service protection from felons",
-    "domain": "thehill.com",
-    "category": "politics",
-    "link": "https://thehill.com/homenews/house/4605774-former-jan-6-panel-chair-bill-secret-service-protection-felons/",
-    "timestamp": 1713851159,
-    "recorded": "April 23, 2024 1:45 AM"
+    "title": "Minnesota State Sen. Nicole Mitchell arrested in Detroit Lakes on suspicion of burglary",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/minnesota/news/minnesota-state-senator-nicole-mitchell-arrested-detroit-lakes/",
+    "timestamp": 1713852907,
+    "recorded": "April 23, 2024 2:15 AM"
 }
 ```
 
