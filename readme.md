@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 24, 2024 9:54 AM
+- Updated: Apr 24, 2024 9:54 PM
 
 ```
 {
-    "title": "Emergency rooms refused to treat pregnant women, leaving one to miscarry in a lobby restroom",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/pregnancy-emergency-care-abortion-supreme-court-roe-9ce6c87c8fc653c840654de1ae5f7a1c",
-    "timestamp": 1713932402,
-    "recorded": "April 24, 2024 12:20 AM"
+    "title": "Ukraine pressures military age men abroad by suspending their consular services | CNN",
+    "domain": "edition.cnn.com",
+    "category": "worldnews",
+    "link": "https://edition.cnn.com/2024/04/23/europe/ukraine-consulates-mobilization-intl-latam/index.html",
+    "timestamp": 1713937130,
+    "recorded": "April 24, 2024 1:38 AM"
 }
 ```
 
