@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 24, 2024 9:54 PM
+- Updated: Apr 25, 2024 9:54 AM
 
 ```
 {
-    "title": "Ukraine pressures military age men abroad by suspending their consular services | CNN",
-    "domain": "edition.cnn.com",
-    "category": "worldnews",
-    "link": "https://edition.cnn.com/2024/04/23/europe/ukraine-consulates-mobilization-intl-latam/index.html",
-    "timestamp": 1713937130,
-    "recorded": "April 24, 2024 1:38 AM"
+    "title": "Red Cabbage Juice ameliorated Colitis and improved the Microbiome ",
+    "domain": "mdpi.com",
+    "category": "science",
+    "link": "https://www.mdpi.com/1422-0067/25/1/539",
+    "timestamp": 1714019887,
+    "recorded": "April 25, 2024 12:38 AM"
 }
 ```
 
