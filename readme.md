@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 26, 2024 9:54 AM
+- Updated: Apr 26, 2024 9:54 PM
 
 ```
 {
-    "title": "Bernie Sanders issues scathing statement directed at Netanyahu over campus protests",
-    "domain": "independent.co.uk",
-    "category": "politics",
-    "link": "https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-netanyahu-campus-protests-b2534966.html",
-    "timestamp": 1714105586,
-    "recorded": "April 26, 2024 12:26 AM"
+    "title": "China must stop aiding Russia if it seeks good relations with West, NATO says",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/china-must-stop-aiding-russia-if-it-seeks-good-relations-with-west-nato-says-2024-04-25/",
+    "timestamp": 1714106400,
+    "recorded": "April 26, 2024 12:40 AM"
 }
 ```
 
