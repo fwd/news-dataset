@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 27, 2024 9:54 PM
+- Updated: Apr 28, 2024 9:54 AM
 
 ```
 {
-    "title": "Clearwater property owners sell $58M real estate portfolio to Church of Scientology parishioner",
-    "domain": "fox13news.com",
+    "title": "Williams-Sonoma fined $3.18 million for falsely labeling products as 'Made in USA'",
+    "domain": "scrippsnews.com",
     "category": "news",
-    "link": "https://www.fox13news.com/news/clearwater-property-owners-sell-58m-real-estate-portfolio-to-church-of-scientology-entities",
-    "timestamp": 1714191430,
-    "recorded": "April 27, 2024 12:17 AM"
+    "link": "https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa",
+    "timestamp": 1714278274,
+    "recorded": "April 28, 2024 12:24 AM"
 }
 ```
 
