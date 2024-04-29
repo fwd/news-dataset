@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 62k
+- Articles: 63k
 - File Type: JSON
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 28, 2024 9:54 PM
+- Updated: Apr 29, 2024 9:54 AM
 
 ```
 {
-    "title": "Williams-Sonoma fined $3.18 million for falsely labeling products as 'Made in USA'",
-    "domain": "scrippsnews.com",
-    "category": "news",
-    "link": "https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa",
-    "timestamp": 1714278274,
-    "recorded": "April 28, 2024 12:24 AM"
+    "title": "Geohazard assessment of Mexico City’s Metro system derived from SAR interferometry observations | Land subsidence rates in Mexico City reach 500 mm/year causing progressive damage to the city’s core infrastructure",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41598-024-53525-y",
+    "timestamp": 1714363787,
+    "recorded": "April 29, 2024 12:09 AM"
 }
 ```
 
