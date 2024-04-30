@@ -6,16 +6,16 @@
 - File Size: ~**23MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 29, 2024 9:54 AM
+- Updated: Apr 29, 2024 9:54 PM
 
 ```
 {
-    "title": "Geohazard assessment of Mexico City’s Metro system derived from SAR interferometry observations | Land subsidence rates in Mexico City reach 500 mm/year causing progressive damage to the city’s core infrastructure",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s41598-024-53525-y",
-    "timestamp": 1714363787,
-    "recorded": "April 29, 2024 12:09 AM"
+    "title": "Kristi Noem Doubles Down on Story About Killing Her Dog From Memoir: ‘I Decided What I Did’",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/kristi-noem-kills-dog-backlash-memoir-response-1235011756/",
+    "timestamp": 1714364583,
+    "recorded": "April 29, 2024 12:23 AM"
 }
 ```
 
