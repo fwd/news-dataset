@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 63k
 - File Type: JSON
-- File Size: ~**23MB**
+- File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 29, 2024 9:54 PM
+- Updated: Apr 30, 2024 9:54 AM
 
 ```
 {
-    "title": "Kristi Noem Doubles Down on Story About Killing Her Dog From Memoir: ‘I Decided What I Did’",
-    "domain": "rollingstone.com",
-    "category": "politics",
-    "link": "https://www.rollingstone.com/politics/politics-news/kristi-noem-kills-dog-backlash-memoir-response-1235011756/",
-    "timestamp": 1714364583,
-    "recorded": "April 29, 2024 12:23 AM"
+    "title": "German Chancellor accuses Putin of misusing philosopher Immanuel Kant's teachings",
+    "domain": "timesofindia.indiatimes.com",
+    "category": "worldnews",
+    "link": "https://timesofindia.indiatimes.com/world/europe/german-chancellor-accuses-putin-of-misusing-philosopher-immanuel-kants-teachings/articleshow/109561696.cms",
+    "timestamp": 1714451589,
+    "recorded": "April 30, 2024 12:33 AM"
 }
 ```
 
