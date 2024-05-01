@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 30, 2024 9:54 AM
+- Updated: Apr 30, 2024 9:54 PM
 
 ```
 {
-    "title": "German Chancellor accuses Putin of misusing philosopher Immanuel Kant's teachings",
-    "domain": "timesofindia.indiatimes.com",
+    "title": "German army captain admits spying for Russia – DW",
+    "domain": "dw.com",
     "category": "worldnews",
-    "link": "https://timesofindia.indiatimes.com/world/europe/german-chancellor-accuses-putin-of-misusing-philosopher-immanuel-kants-teachings/articleshow/109561696.cms",
-    "timestamp": 1714451589,
-    "recorded": "April 30, 2024 12:33 AM"
+    "link": "https://www.dw.com/en/german-army-captain-admits-spying-for-russia/a-68946494",
+    "timestamp": 1714455756,
+    "recorded": "April 30, 2024 1:42 AM"
 }
 ```
 
