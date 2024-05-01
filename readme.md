@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Apr 30, 2024 9:54 PM
+- Updated: May 1, 2024 9:54 AM
 
 ```
 {
-    "title": "German army captain admits spying for Russia – DW",
-    "domain": "dw.com",
+    "title": "Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict",
+    "domain": "channelnewsasia.com",
     "category": "worldnews",
-    "link": "https://www.dw.com/en/german-army-captain-admits-spying-for-russia/a-68946494",
-    "timestamp": 1714455756,
-    "recorded": "April 30, 2024 1:42 AM"
+    "link": "https://www.channelnewsasia.com/asia/malaysia-kfc-closures-boycott-gaza-conflict-4302296",
+    "timestamp": 1714537158,
+    "recorded": "May 1, 2024 12:19 AM"
 }
 ```
 
