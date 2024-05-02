@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 1, 2024 9:54 AM
+- Updated: May 1, 2024 9:54 PM
 
 ```
 {
-    "title": "Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict",
-    "domain": "channelnewsasia.com",
+    "title": "India saved USD 13 billion by importing discounted Russian crude",
+    "domain": "newindianexpress.com",
     "category": "worldnews",
-    "link": "https://www.channelnewsasia.com/asia/malaysia-kfc-closures-boycott-gaza-conflict-4302296",
-    "timestamp": 1714537158,
-    "recorded": "May 1, 2024 12:19 AM"
+    "link": "https://www.newindianexpress.com/business/2024/Apr/30/india-saved-usd-13-billion-by-importing-discounted-russian-crude",
+    "timestamp": 1714537697,
+    "recorded": "May 1, 2024 12:28 AM"
 }
 ```
 
