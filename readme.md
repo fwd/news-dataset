@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 1, 2024 9:54 PM
+- Updated: May 2, 2024 9:54 AM
 
 ```
 {
-    "title": "India saved USD 13 billion by importing discounted Russian crude",
-    "domain": "newindianexpress.com",
-    "category": "worldnews",
-    "link": "https://www.newindianexpress.com/business/2024/Apr/30/india-saved-usd-13-billion-by-importing-discounted-russian-crude",
-    "timestamp": 1714537697,
-    "recorded": "May 1, 2024 12:28 AM"
+    "title": "A teen was found buried in a basement in New York. An engraved ring helped police learn her identity two decades later",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2024/05/01/us/midtown-jane-doe-death-ring-cec",
+    "timestamp": 1714622676,
+    "recorded": "May 2, 2024 12:04 AM"
 }
 ```
 
