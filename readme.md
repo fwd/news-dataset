@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 2, 2024 9:54 PM
+- Updated: May 3, 2024 9:54 AM
 
 ```
 {
-    "title": "A teen was found buried in a basement in New York. An engraved ring helped police learn her identity two decades later",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2024/05/01/us/midtown-jane-doe-death-ring-cec",
-    "timestamp": 1714622676,
-    "recorded": "May 2, 2024 12:04 AM"
+    "title": "Genetic study challenges the concepts of reactive (situational) depression and endogenous depression, showing that genes influence reporting of stressors",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41380-024-02492-x",
+    "timestamp": 1714710074,
+    "recorded": "May 3, 2024 12:21 AM"
 }
 ```
 
