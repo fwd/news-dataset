@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 3, 2024 9:54 AM
+- Updated: May 3, 2024 9:54 PM
 
 ```
 {
-    "title": "Genetic study challenges the concepts of reactive (situational) depression and endogenous depression, showing that genes influence reporting of stressors",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s41380-024-02492-x",
-    "timestamp": 1714710074,
-    "recorded": "May 3, 2024 12:21 AM"
+    "title": "White House downplays Biden calling Japan 'xenophobic' country",
+    "domain": "mainichi.jp",
+    "category": "worldnews",
+    "link": "https://mainichi.jp/english/articles/20240503/p2g/00m/0in/002000c",
+    "timestamp": 1714716275,
+    "recorded": "May 3, 2024 2:04 AM"
 }
 ```
 
