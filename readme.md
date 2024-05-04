@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 3, 2024 9:54 PM
+- Updated: May 4, 2024 9:54 AM
 
 ```
 {
-    "title": "White House downplays Biden calling Japan 'xenophobic' country",
-    "domain": "mainichi.jp",
+    "title": "EU and NATO condemn Russian cyber attacks against Germany and Czechia",
+    "domain": "euronews.com",
     "category": "worldnews",
-    "link": "https://mainichi.jp/english/articles/20240503/p2g/00m/0in/002000c",
-    "timestamp": 1714716275,
-    "recorded": "May 3, 2024 2:04 AM"
+    "link": "https://www.euronews.com/my-europe/2024/05/03/eu-and-nato-condemn-malicious-russian-cyber-attacks-against-germany-and-czechia",
+    "timestamp": 1714795226,
+    "recorded": "May 4, 2024 12:00 AM"
 }
 ```
 
