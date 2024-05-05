@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 4, 2024 9:54 PM
+- Updated: May 5, 2024 9:54 AM
 
 ```
 {
-    "title": "Quebec premier says police should dismantle pro-Palestinian student camp",
-    "domain": "theguardian.com",
+    "title": "Bundeswehr's classified meetings found online",
+    "domain": "dw.com",
     "category": "worldnews",
-    "link": "https://www.theguardian.com/world/article/2024/may/03/pro-palestine-campus-protests-canada",
-    "timestamp": 1714804031,
-    "recorded": "May 4, 2024 2:27 AM"
+    "link": "https://www.dw.com/en/bundeswehrs-classified-meetings-found-online/a-68999642",
+    "timestamp": 1714883172,
+    "recorded": "May 5, 2024 12:26 AM"
 }
 ```
 
