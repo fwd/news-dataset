@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 4, 2024 9:54 AM
+- Updated: May 4, 2024 9:54 PM
 
 ```
 {
-    "title": "EU and NATO condemn Russian cyber attacks against Germany and Czechia",
-    "domain": "euronews.com",
+    "title": "Quebec premier says police should dismantle pro-Palestinian student camp",
+    "domain": "theguardian.com",
     "category": "worldnews",
-    "link": "https://www.euronews.com/my-europe/2024/05/03/eu-and-nato-condemn-malicious-russian-cyber-attacks-against-germany-and-czechia",
-    "timestamp": 1714795226,
-    "recorded": "May 4, 2024 12:00 AM"
+    "link": "https://www.theguardian.com/world/article/2024/may/03/pro-palestine-campus-protests-canada",
+    "timestamp": 1714804031,
+    "recorded": "May 4, 2024 2:27 AM"
 }
 ```
 
