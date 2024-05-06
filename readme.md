@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 5, 2024 9:54 PM
+- Updated: May 6, 2024 9:54 AM
 
 ```
 {
-    "title": "Cubans lured to Russian army by high pay and passports",
-    "domain": "bbc.com",
+    "title": "Orbán challenger in Hungary mobilises thousands at demonstration",
+    "domain": "euronews.com",
     "category": "worldnews",
-    "link": "https://www.bbc.com/news/world-europe-68949298",
-    "timestamp": 1714887306,
-    "recorded": "May 5, 2024 1:35 AM"
+    "link": "https://www.euronews.com/2024/05/06/orban-challenger-in-hungary-mobilises-thousands-at-demonstration",
+    "timestamp": 1714969436,
+    "recorded": "May 6, 2024 12:23 AM"
 }
 ```
 
