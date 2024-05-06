@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 5, 2024 9:54 AM
+- Updated: May 5, 2024 9:54 PM
 
 ```
 {
-    "title": "Bundeswehr's classified meetings found online",
-    "domain": "dw.com",
+    "title": "Cubans lured to Russian army by high pay and passports",
+    "domain": "bbc.com",
     "category": "worldnews",
-    "link": "https://www.dw.com/en/bundeswehrs-classified-meetings-found-online/a-68999642",
-    "timestamp": 1714883172,
-    "recorded": "May 5, 2024 12:26 AM"
+    "link": "https://www.bbc.com/news/world-europe-68949298",
+    "timestamp": 1714887306,
+    "recorded": "May 5, 2024 1:35 AM"
 }
 ```
 
