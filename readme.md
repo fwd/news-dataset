@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 6, 2024 9:54 AM
+- Updated: May 6, 2024 9:54 PM
 
 ```
 {
-    "title": "Orbán challenger in Hungary mobilises thousands at demonstration",
-    "domain": "euronews.com",
+    "title": "Israel military begins evacuating Palestinian civilians from Rafah, radio says",
+    "domain": "reuters.com",
     "category": "worldnews",
-    "link": "https://www.euronews.com/2024/05/06/orban-challenger-in-hungary-mobilises-thousands-at-demonstration",
-    "timestamp": 1714969436,
-    "recorded": "May 6, 2024 12:23 AM"
+    "link": "https://www.reuters.com/world/middle-east/israeli-military-begins-evacuating-palestinian-civilians-rafah-radio-says-2024-05-06/",
+    "timestamp": 1714971412,
+    "recorded": "May 6, 2024 12:56 AM"
 }
 ```
 
