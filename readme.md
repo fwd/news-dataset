@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 7, 2024 9:54 PM
+- Updated: May 8, 2024 9:54 AM
 
 ```
 {
-    "title": "Russia seeks to harm Europe in all possible ways - Finland’s PM",
-    "domain": "ukrinform.net",
-    "category": "worldnews",
-    "link": "https://www.ukrinform.net/rubric-polytics/3860814-russia-seeks-to-harm-europe-in-all-possible-ways-finlands-pm.html",
-    "timestamp": 1715058977,
-    "recorded": "May 7, 2024 1:16 AM"
+    "title": "Biden Puts Arms Shipment to Israel on Hold Amid Dispute Over Rafah Attack, White House confirms",
+    "domain": "nytimes.com",
+    "category": "politics",
+    "link": "https://www.nytimes.com/2024/05/07/us/politics/israel-biden-arms.html",
+    "timestamp": 1715142440,
+    "recorded": "May 8, 2024 12:27 AM"
 }
 ```
 
