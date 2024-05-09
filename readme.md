@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 8, 2024 9:54 PM
+- Updated: May 9, 2024 9:54 AM
 
 ```
 {
-    "title": "Japan warns child care sites not to put naked kids' pics online as many found on porn sites",
-    "domain": "mainichi.jp",
-    "category": "worldnews",
-    "link": "https://mainichi.jp/english/articles/20240508/p2a/00m/0na/002000c",
-    "timestamp": 1715144532,
-    "recorded": "May 8, 2024 1:02 AM"
+    "title": "Burnett asks Biden how he is going to turn the economy around. He said he already has",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/videos/politics/2024/05/08/joe-biden-preview-sot-ebof-intv-lead-digvid.cnn",
+    "timestamp": 1715228992,
+    "recorded": "May 9, 2024 12:29 AM"
 }
 ```
 
