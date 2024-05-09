@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 8, 2024 9:54 AM
+- Updated: May 8, 2024 9:54 PM
 
 ```
 {
-    "title": "Biden Puts Arms Shipment to Israel on Hold Amid Dispute Over Rafah Attack, White House confirms",
-    "domain": "nytimes.com",
-    "category": "politics",
-    "link": "https://www.nytimes.com/2024/05/07/us/politics/israel-biden-arms.html",
-    "timestamp": 1715142440,
-    "recorded": "May 8, 2024 12:27 AM"
+    "title": "Japan warns child care sites not to put naked kids' pics online as many found on porn sites",
+    "domain": "mainichi.jp",
+    "category": "worldnews",
+    "link": "https://mainichi.jp/english/articles/20240508/p2a/00m/0na/002000c",
+    "timestamp": 1715144532,
+    "recorded": "May 8, 2024 1:02 AM"
 }
 ```
 
