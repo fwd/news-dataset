@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 9, 2024 9:54 PM
+- Updated: May 10, 2024 9:54 AM
 
 ```
 {
-    "title": "Burnett asks Biden how he is going to turn the economy around. He said he already has",
-    "domain": "cnn.com",
+    "title": "Trump gets Barron's age wrong when asked about his youngest son's convention role",
+    "domain": "nbcnews.com",
     "category": "politics",
-    "link": "https://www.cnn.com/videos/politics/2024/05/08/joe-biden-preview-sot-ebof-intv-lead-digvid.cnn",
-    "timestamp": 1715228992,
-    "recorded": "May 9, 2024 12:29 AM"
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-gets-barrons-age-wrong-asked-youngest-sons-convention-role-rcna151596",
+    "timestamp": 1715314658,
+    "recorded": "May 10, 2024 12:17 AM"
 }
 ```
 
