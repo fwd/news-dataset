@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 11, 2024 9:54 PM
+- Updated: May 12, 2024 9:54 AM
 
 ```
 {
-    "title": "Priest, 82, and retired teacher, 85, smash case holding copy of Magna Carta in environmental protest",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/news/magna-carta-british-library-environmental-activists-smash-arrest/",
-    "timestamp": 1715400505,
-    "recorded": "May 11, 2024 12:08 AM"
+    "title": "German MPs propose that NATO intercept drones over Ukraine",
+    "domain": "pravda.com.ua",
+    "category": "worldnews",
+    "link": "https://www.pravda.com.ua/eng/news/2024/05/11/7455358/",
+    "timestamp": 1715487802,
+    "recorded": "May 12, 2024 12:23 AM"
 }
 ```
 
