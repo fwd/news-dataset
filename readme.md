@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 12, 2024 9:54 PM
+- Updated: May 13, 2024 9:54 AM
 
 ```
 {
-    "title": "German MPs propose that NATO intercept drones over Ukraine",
-    "domain": "pravda.com.ua",
-    "category": "worldnews",
-    "link": "https://www.pravda.com.ua/eng/news/2024/05/11/7455358/",
-    "timestamp": 1715487802,
-    "recorded": "May 12, 2024 12:23 AM"
+    "title": "Trump promised to scrap climate laws if US oil bosses donated $1bn – report",
+    "domain": "theguardian.com",
+    "category": "politics",
+    "link": "https://www.theguardian.com/us-news/article/2024/may/09/trump-oil-ceo-donation",
+    "timestamp": 1715572846,
+    "recorded": "May 13, 2024 12:00 AM"
 }
 ```
 
