@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 13, 2024 9:54 AM
+- Updated: May 13, 2024 9:54 PM
 
 ```
 {
-    "title": "Trump promised to scrap climate laws if US oil bosses donated $1bn – report",
-    "domain": "theguardian.com",
-    "category": "politics",
-    "link": "https://www.theguardian.com/us-news/article/2024/may/09/trump-oil-ceo-donation",
-    "timestamp": 1715572846,
-    "recorded": "May 13, 2024 12:00 AM"
+    "title": "Chinese journalist imprisoned for her Covid reporting due to be released after four years | CNN",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2024/05/13/china/china-covid-journalist-zhang-zhan-expected-release-intl-hnk/index.html",
+    "timestamp": 1715581503,
+    "recorded": "May 13, 2024 2:25 AM"
 }
 ```
 
