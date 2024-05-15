@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 64k
+- Articles: 65k
 - File Type: JSON
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 14, 2024 9:54 PM
+- Updated: May 15, 2024 9:54 AM
 
 ```
 {
-    "title": "Blinken in Ukraine to offer 'strong reassurance' as US weapons reach front line",
-    "domain": "bbc.co.uk",
-    "category": "ukraine",
-    "link": "https://www.bbc.co.uk/news/world-us-canada-69006673",
-    "timestamp": 1715665788,
-    "recorded": "May 14, 2024 1:49 AM"
+    "title": "Legal expert: Despite \"credibility\" issues, Michael Cohen \"put it all together\" for Trump jury ",
+    "domain": "salon.com",
+    "category": "politics",
+    "link": "https://www.salon.com/2024/05/14/legal-expert-despite-credibility-issues-michael-cohen-put-it-all-together-for-jury/",
+    "timestamp": 1715747292,
+    "recorded": "May 15, 2024 12:28 AM"
 }
 ```
 
