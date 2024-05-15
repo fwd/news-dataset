@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 14, 2024 9:54 AM
+- Updated: May 14, 2024 9:54 PM
 
 ```
 {
-    "title": "Nighttime air attack - All Russian Shahed drones shot down",
-    "domain": "newsukraine.rbc.ua",
+    "title": "Blinken in Ukraine to offer 'strong reassurance' as US weapons reach front line",
+    "domain": "bbc.co.uk",
     "category": "ukraine",
-    "link": "https://newsukraine.rbc.ua/news/nighttime-air-attack-all-russian-shahed-drones-1715660671.html",
-    "timestamp": 1715664595,
-    "recorded": "May 14, 2024 1:29 AM"
+    "link": "https://www.bbc.co.uk/news/world-us-canada-69006673",
+    "timestamp": 1715665788,
+    "recorded": "May 14, 2024 1:49 AM"
 }
 ```
 
