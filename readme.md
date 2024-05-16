@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 15, 2024 9:54 PM
+- Updated: May 16, 2024 9:54 AM
 
 ```
 {
-    "title": "Trump appears to fall asleep with his mouth open minutes into Michael Cohen’s testy cross-examination ",
-    "domain": "independent.co.uk",
-    "category": "politics",
-    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-asleep-court-trial-cohen-b2545079.html",
-    "timestamp": 1715754277,
-    "recorded": "May 15, 2024 2:24 AM"
+    "title": "Singapore Airlines Staff Get Eight Months' Salary Bonus After Record Profits",
+    "domain": "bloomberg.com",
+    "category": "worldnews",
+    "link": "https://www.bloomberg.com/news/articles/2024-05-16/singapore-air-staff-score-almost-eight-months-salary-as-bonus",
+    "timestamp": 1715833146,
+    "recorded": "May 16, 2024 12:19 AM"
 }
 ```
 
