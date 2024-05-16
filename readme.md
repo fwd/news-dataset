@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 15, 2024 9:54 AM
+- Updated: May 15, 2024 9:54 PM
 
 ```
 {
-    "title": "Legal expert: Despite \"credibility\" issues, Michael Cohen \"put it all together\" for Trump jury ",
-    "domain": "salon.com",
+    "title": "Trump appears to fall asleep with his mouth open minutes into Michael Cohen’s testy cross-examination ",
+    "domain": "independent.co.uk",
     "category": "politics",
-    "link": "https://www.salon.com/2024/05/14/legal-expert-despite-credibility-issues-michael-cohen-put-it-all-together-for-jury/",
-    "timestamp": 1715747292,
-    "recorded": "May 15, 2024 12:28 AM"
+    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-asleep-court-trial-cohen-b2545079.html",
+    "timestamp": 1715754277,
+    "recorded": "May 15, 2024 2:24 AM"
 }
 ```
 
