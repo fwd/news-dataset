@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 17, 2024 9:54 PM
+- Updated: May 18, 2024 9:54 AM
 
 ```
 {
-    "title": "China new home prices fall at fastest pace in over 9 years",
-    "domain": "channelnewsasia.com",
+    "title": "Gunmen kill three Spanish tourists in Afghanistan's central Bamyan province",
+    "domain": "reuters.com",
     "category": "worldnews",
-    "link": "https://www.channelnewsasia.com/asia/china-new-home-prices-fall-property-market-crisis-4342851",
-    "timestamp": 1715926399,
-    "recorded": "May 17, 2024 2:13 AM"
+    "link": "https://www.reuters.com/world/asia-pacific/gunmen-kill-three-foreign-tourists-afghanistans-central-bamyan-province-2024-05-17/",
+    "timestamp": 1716005426,
+    "recorded": "May 18, 2024 12:10 AM"
 }
 ```
 
