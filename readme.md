@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 18, 2024 9:54 PM
+- Updated: May 19, 2024 9:54 AM
 
 ```
 {
-    "title": "Russian soldiers reportedly killed an old man on a wheelchair. The man tried to drive away from the medical facility, but Russians shot him and threw him in the middle of a street in Vovchansk, near the Central Railway Station.",
-    "domain": "x.com",
-    "category": "ukraine",
-    "link": "https://x.com/clashreport/status/1791545763668938887",
-    "timestamp": 1716010353,
-    "recorded": "May 18, 2024 1:32 AM"
+    "title": "Driver said he smoked pot oil, took medication before Florida crash that killed 8 Mexican workers",
+    "domain": "abcnews.go.com",
+    "category": "news",
+    "link": "https://abcnews.go.com/Business/wireStory/mexican-citizens-traveling-work-florida-farm-pickup-hit-110246361",
+    "timestamp": 1716091345,
+    "recorded": "May 19, 2024 12:02 AM"
 }
 ```
 
