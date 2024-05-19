@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 18, 2024 9:54 AM
+- Updated: May 18, 2024 9:54 PM
 
 ```
 {
-    "title": "Gunmen kill three Spanish tourists in Afghanistan's central Bamyan province",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/asia-pacific/gunmen-kill-three-foreign-tourists-afghanistans-central-bamyan-province-2024-05-17/",
-    "timestamp": 1716005426,
-    "recorded": "May 18, 2024 12:10 AM"
+    "title": "Russian soldiers reportedly killed an old man on a wheelchair. The man tried to drive away from the medical facility, but Russians shot him and threw him in the middle of a street in Vovchansk, near the Central Railway Station.",
+    "domain": "x.com",
+    "category": "ukraine",
+    "link": "https://x.com/clashreport/status/1791545763668938887",
+    "timestamp": 1716010353,
+    "recorded": "May 18, 2024 1:32 AM"
 }
 ```
 
