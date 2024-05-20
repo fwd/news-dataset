@@ -6,16 +6,16 @@
 - File Size: ~**24MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 19, 2024 9:54 PM
+- Updated: May 20, 2024 9:54 AM
 
 ```
 {
-    "title": "Driver said he smoked pot oil, took medication before Florida crash that killed 8 Mexican workers",
-    "domain": "abcnews.go.com",
-    "category": "news",
-    "link": "https://abcnews.go.com/Business/wireStory/mexican-citizens-traveling-work-florida-farm-pickup-hit-110246361",
-    "timestamp": 1716091345,
-    "recorded": "May 19, 2024 12:02 AM"
+    "title": "Prime minister 'applauds' South Australian move to ban children from social media",
+    "domain": "sbs.com.au",
+    "category": "worldnews",
+    "link": "https://www.sbs.com.au/news/article/prime-minister-applauds-south-australian-move-to-ban-children-from-social-media/5jlubxyaa",
+    "timestamp": 1716178435,
+    "recorded": "May 20, 2024 12:13 AM"
 }
 ```
 
