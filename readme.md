@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 65k
 - File Type: JSON
-- File Size: ~**24MB**
+- File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 20, 2024 9:54 AM
+- Updated: May 20, 2024 9:54 PM
 
 ```
 {
-    "title": "Prime minister 'applauds' South Australian move to ban children from social media",
-    "domain": "sbs.com.au",
-    "category": "worldnews",
-    "link": "https://www.sbs.com.au/news/article/prime-minister-applauds-south-australian-move-to-ban-children-from-social-media/5jlubxyaa",
-    "timestamp": 1716178435,
-    "recorded": "May 20, 2024 12:13 AM"
+    "title": "Russia has accused Ukraine of attacking it with French-made guided bombs in the Russian region of Belgorod, which borders Ukraine.",
+    "domain": "x.com",
+    "category": "ukraine",
+    "link": "https://x.com/aidefranceukr/status/1791832055157838139",
+    "timestamp": 1716181208,
+    "recorded": "May 20, 2024 1:00 AM"
 }
 ```
 
