@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 21, 2024 9:54 PM
+- Updated: May 22, 2024 9:54 AM
 
 ```
 {
-    "title": "Man who sought revenge for a stolen phone pleads guilty to fire that killed a Senegalese family of 5",
-    "domain": "nbcnews.com",
-    "category": "news",
-    "link": "https://www.nbcnews.com/news/crime-courts/man-sought-revenge-stolen-phone-pleads-guilty-fire-killed-senegalese-f-rcna152897",
-    "timestamp": 1716270568,
-    "recorded": "May 21, 2024 1:49 AM"
+    "title": "Colorado GOP tells parents to pull all kids from public schools",
+    "domain": "9news.com",
+    "category": "politics",
+    "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/colorado-gop-kids-pulled-from-public-schools/73-e121fe9e-9a2b-498d-8a80-1efe2a179758",
+    "timestamp": 1716351440,
+    "recorded": "May 22, 2024 12:17 AM"
 }
 ```
 
