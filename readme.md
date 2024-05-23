@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 22, 2024 9:54 PM
+- Updated: May 23, 2024 9:54 AM
 
 ```
 {
-    "title": "‘A pack of lies.’ Israeli Prime Minister denies he is starving civilians in Gaza as a method of war",
-    "domain": "cnn.com",
-    "category": "worldnews",
-    "link": "https://www.cnn.com/2024/05/21/middleeast/israel-netanyahu-interview-icc-intl-latam/index.html",
-    "timestamp": 1716355719,
-    "recorded": "May 22, 2024 1:28 AM"
+    "title": "A new study shows that as of 2022, 1 in 9 children had received ADHD diagnoses at some point in their lifetimes. ",
+    "domain": "nbcnews.com",
+    "category": "science",
+    "link": "https://www.nbcnews.com/health/kids-health/adhd-rates-kids-high-rcna153270",
+    "timestamp": 1716437032,
+    "recorded": "May 23, 2024 12:03 AM"
 }
 ```
 
