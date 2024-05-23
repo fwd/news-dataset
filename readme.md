@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 65k
+- Articles: 66k
 - File Type: JSON
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 22, 2024 9:54 AM
+- Updated: May 22, 2024 9:54 PM
 
 ```
 {
-    "title": "Colorado GOP tells parents to pull all kids from public schools",
-    "domain": "9news.com",
-    "category": "politics",
-    "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/colorado-gop-kids-pulled-from-public-schools/73-e121fe9e-9a2b-498d-8a80-1efe2a179758",
-    "timestamp": 1716351440,
-    "recorded": "May 22, 2024 12:17 AM"
+    "title": "‘A pack of lies.’ Israeli Prime Minister denies he is starving civilians in Gaza as a method of war",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2024/05/21/middleeast/israel-netanyahu-interview-icc-intl-latam/index.html",
+    "timestamp": 1716355719,
+    "recorded": "May 22, 2024 1:28 AM"
 }
 ```
 
