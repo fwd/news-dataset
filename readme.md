@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 23, 2024 9:54 PM
+- Updated: May 24, 2024 9:54 AM
 
 ```
 {
-    "title": "A new study shows that as of 2022, 1 in 9 children had received ADHD diagnoses at some point in their lifetimes. ",
-    "domain": "nbcnews.com",
-    "category": "science",
-    "link": "https://www.nbcnews.com/health/kids-health/adhd-rates-kids-high-rcna153270",
-    "timestamp": 1716437032,
-    "recorded": "May 23, 2024 12:03 AM"
+    "title": "Hacked data reveals which US gun sellers are behind Mexican cartel violence",
+    "domain": "usatoday.com",
+    "category": "worldnews",
+    "link": "https://www.usatoday.com/story/news/investigations/2024/05/22/mexican-cartels-supplied-trafficked-guns-from-us/73700258007/",
+    "timestamp": 1716524184,
+    "recorded": "May 24, 2024 12:16 AM"
 }
 ```
 
