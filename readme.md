@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 24, 2024 9:54 AM
+- Updated: May 24, 2024 9:54 PM
 
 ```
 {
-    "title": "Hacked data reveals which US gun sellers are behind Mexican cartel violence",
-    "domain": "usatoday.com",
+    "title": " China says military drills encircling Taiwan designed to test its ability to ‘seize power’ ",
+    "domain": "edition.cnn.com",
     "category": "worldnews",
-    "link": "https://www.usatoday.com/story/news/investigations/2024/05/22/mexican-cartels-supplied-trafficked-guns-from-us/73700258007/",
-    "timestamp": 1716524184,
-    "recorded": "May 24, 2024 12:16 AM"
+    "link": "https://edition.cnn.com/2024/05/23/asia/china-military-drills-taiwan-second-day-intl-hnk/index.html",
+    "timestamp": 1716524748,
+    "recorded": "May 24, 2024 12:25 AM"
 }
 ```
 
