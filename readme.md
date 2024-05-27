@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 26, 2024 9:54 PM
+- Updated: May 27, 2024 9:54 AM
 
 ```
 {
-    "title": "Hamas claims to have kidnapped soldiers in Jabaliah, IDF spokesperson denies it",
-    "domain": "ynetnews.com",
-    "category": "worldnews",
-    "link": "https://www.ynetnews.com/article/hkwro1ln0",
-    "timestamp": 1716704802,
-    "recorded": "May 26, 2024 2:26 AM"
+    "title": "Survey finds a U-shaped relation between education and conspiracy belief; 1 in 4 graduate degree holders agreed that \"School shootings ... are false flag attacks perpetrated by the government;\" white male graduate degree holders display \"a notable affinity for especially taboo conspiratorial views\"",
+    "domain": "journals.sagepub.com",
+    "category": "science",
+    "link": "https://journals.sagepub.com/doi/10.1177/23780231241237654",
+    "timestamp": 1716783564,
+    "recorded": "May 27, 2024 12:19 AM"
 }
 ```
 
