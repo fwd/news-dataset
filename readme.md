@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 26, 2024 9:54 AM
+- Updated: May 26, 2024 9:54 PM
 
 ```
 {
-    "title": "Trump furiously jeered as he taunts Libertarians for winning ‘3%’ in elections at their convention | \nTrump speaks to loud boos as he becomes first president in modern era to address third-party convention",
-    "domain": "independent.co.uk",
-    "category": "politics",
-    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-libertarian-party-speech-convention-b2551645.html",
-    "timestamp": 1716696081,
-    "recorded": "May 26, 2024 12:01 AM"
+    "title": "Hamas claims to have kidnapped soldiers in Jabaliah, IDF spokesperson denies it",
+    "domain": "ynetnews.com",
+    "category": "worldnews",
+    "link": "https://www.ynetnews.com/article/hkwro1ln0",
+    "timestamp": 1716704802,
+    "recorded": "May 26, 2024 2:26 AM"
 }
 ```
 
