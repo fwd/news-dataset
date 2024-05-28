@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 27, 2024 9:54 PM
+- Updated: May 28, 2024 9:54 AM
 
 ```
 {
-    "title": "Ukrainian intelligence drone attacks over-the-horizon radar at distance of over 1,800 km",
-    "domain": "pravda.com.ua",
-    "category": "ukraine",
-    "link": "https://www.pravda.com.ua/eng/news/2024/05/27/7457788/",
-    "timestamp": 1716790411,
-    "recorded": "May 27, 2024 2:13 AM"
+    "title": "BBC presenter kicked off Turkey flight over daughter's allergy",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/articles/c0kkzzy8eqjo",
+    "timestamp": 1716873070,
+    "recorded": "May 28, 2024 1:11 AM"
 }
 ```
 
