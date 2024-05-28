@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 27, 2024 9:54 AM
+- Updated: May 27, 2024 9:54 PM
 
 ```
 {
-    "title": "Survey finds a U-shaped relation between education and conspiracy belief; 1 in 4 graduate degree holders agreed that \"School shootings ... are false flag attacks perpetrated by the government;\" white male graduate degree holders display \"a notable affinity for especially taboo conspiratorial views\"",
-    "domain": "journals.sagepub.com",
-    "category": "science",
-    "link": "https://journals.sagepub.com/doi/10.1177/23780231241237654",
-    "timestamp": 1716783564,
-    "recorded": "May 27, 2024 12:19 AM"
+    "title": "Ukrainian intelligence drone attacks over-the-horizon radar at distance of over 1,800 km",
+    "domain": "pravda.com.ua",
+    "category": "ukraine",
+    "link": "https://www.pravda.com.ua/eng/news/2024/05/27/7457788/",
+    "timestamp": 1716790411,
+    "recorded": "May 27, 2024 2:13 AM"
 }
 ```
 
