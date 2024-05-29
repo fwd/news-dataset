@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 28, 2024 9:54 PM
+- Updated: May 29, 2024 9:54 AM
 
 ```
 {
-    "title": "BBC presenter kicked off Turkey flight over daughter's allergy",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/articles/c0kkzzy8eqjo",
-    "timestamp": 1716873070,
-    "recorded": "May 28, 2024 1:11 AM"
+    "title": "Trump’s family members have visited court during the hush money trial. Notably missing: Melania and Ivanka Trump ",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/05/28/politics/trump-family-members-hush-money-trial?cid=ios_app",
+    "timestamp": 1716955263,
+    "recorded": "May 29, 2024 12:01 AM"
 }
 ```
 
