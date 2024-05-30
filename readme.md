@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 29, 2024 9:54 PM
+- Updated: May 30, 2024 9:54 AM
 
 ```
 {
-    "title": "North Korea flies 150 'feces-filled' balloons across border to the South",
-    "domain": "koreajoongangdaily.joins.com",
-    "category": "worldnews",
-    "link": "https://koreajoongangdaily.joins.com/news/2024-05-29/national/northKorea/North-Korea-flies-150-fecesfilled-balloons-across-border-to-the-South/2057086",
-    "timestamp": 1716959266,
-    "recorded": "May 29, 2024 1:07 AM"
+    "title": "Alito says the Supreme Court’s fake ethics code allows him to be unethical",
+    "domain": "vox.com",
+    "category": "politics",
+    "link": "https://www.vox.com/scotus/352380/supreme-court-alito-ethics-recusal-insurrection-flags",
+    "timestamp": 1717042520,
+    "recorded": "May 30, 2024 12:15 AM"
 }
 ```
 
