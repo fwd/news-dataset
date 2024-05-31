@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 66k
+- Articles: 67k
 - File Type: JSON
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 30, 2024 9:54 AM
+- Updated: May 30, 2024 9:54 PM
 
 ```
 {
-    "title": "Alito says the Supreme Court’s fake ethics code allows him to be unethical",
-    "domain": "vox.com",
-    "category": "politics",
-    "link": "https://www.vox.com/scotus/352380/supreme-court-alito-ethics-recusal-insurrection-flags",
-    "timestamp": 1717042520,
-    "recorded": "May 30, 2024 12:15 AM"
+    "title": "US accuses China of 'every support' for Russia's war in Ukraine, threatens more sanctions",
+    "domain": "kyivindependent.com",
+    "category": "worldnews",
+    "link": "https://kyivindependent.com/us-accuses-china-of-every-support-for-russias-war-in-ukraine-threatens-more-sanctions/",
+    "timestamp": 1717047080,
+    "recorded": "May 30, 2024 1:31 AM"
 }
 ```
 
