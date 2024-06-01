@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 31, 2024 9:54 AM
+- Updated: May 31, 2024 9:54 PM
 
 ```
 {
-    "title": "Tens of billions of dollars in gold flows illegally out of Africa each year, a new report says",
-    "domain": "apnews.com",
+    "title": "US intelligence officials share evidence that Russia has used North Korean missiles to strike Ukraine",
+    "domain": "kyivindependent.com",
     "category": "worldnews",
-    "link": "https://apnews.com/article/gold-smuggling-africa-uae-switzerland-e1a614c465766f1c3e90fb9e5a5167a2",
-    "timestamp": 1717128813,
-    "recorded": "May 31, 2024 12:13 AM"
+    "link": "https://kyivindependent.com/us-intelligence-officials-share-evidence-that-russia-has-used-north-korean-missiles-to-strike-ukraine/",
+    "timestamp": 1717134205,
+    "recorded": "May 31, 2024 1:43 AM"
 }
 ```
 
