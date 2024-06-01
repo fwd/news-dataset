@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: May 31, 2024 9:54 PM
+- Updated: Jun 1, 2024 9:54 AM
 
 ```
 {
-    "title": "US intelligence officials share evidence that Russia has used North Korean missiles to strike Ukraine",
-    "domain": "kyivindependent.com",
-    "category": "worldnews",
-    "link": "https://kyivindependent.com/us-intelligence-officials-share-evidence-that-russia-has-used-north-korean-missiles-to-strike-ukraine/",
-    "timestamp": 1717134205,
-    "recorded": "May 31, 2024 1:43 AM"
+    "title": "\"No one is surprised\": Biden campaign slams Trump over report he used the n-word on \"The Apprentice\"",
+    "domain": "salon.com",
+    "category": "politics",
+    "link": "https://www.salon.com/2024/05/30/no-one-is-surprised-biden-campaign-slams-over-report-he-used-the-n-word-on-the-apprentice/",
+    "timestamp": 1717215955,
+    "recorded": "June 1, 2024 12:25 AM"
 }
 ```
 
