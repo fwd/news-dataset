@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 1, 2024 9:54 AM
+- Updated: Jun 1, 2024 9:54 PM
 
 ```
 {
-    "title": "\"No one is surprised\": Biden campaign slams Trump over report he used the n-word on \"The Apprentice\"",
-    "domain": "salon.com",
-    "category": "politics",
-    "link": "https://www.salon.com/2024/05/30/no-one-is-surprised-biden-campaign-slams-over-report-he-used-the-n-word-on-the-apprentice/",
-    "timestamp": 1717215955,
-    "recorded": "June 1, 2024 12:25 AM"
+    "title": "White House confirms that Ukraine cannot hit Russia with ATACMS missiles",
+    "domain": "pravda.com.ua",
+    "category": "worldnews",
+    "link": "https://www.pravda.com.ua/eng/news/2024/05/31/7458627/",
+    "timestamp": 1717217400,
+    "recorded": "June 1, 2024 12:50 AM"
 }
 ```
 
