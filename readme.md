@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 2, 2024 9:54 AM
+- Updated: Jun 2, 2024 9:54 PM
 
 ```
 {
-    "title": "Trump joins TikTok, the app he once tried to ban",
-    "domain": "politico.com",
-    "category": "politics",
-    "link": "https://www.politico.com/news/2024/06/02/trump-joins-tiktok-the-app-he-once-tried-to-ban-00161155",
-    "timestamp": 1717303789,
-    "recorded": "June 2, 2024 12:49 AM"
+    "title": "China’s defence chief repeats threat of force against Taiwanese independence",
+    "domain": "theguardian.com",
+    "category": "news",
+    "link": "https://www.theguardian.com/world/article/2024/jun/02/chinas-defence-chief-repeats-threat-of-force-against-taiwanese-independence",
+    "timestamp": 1717303990,
+    "recorded": "June 2, 2024 12:53 AM"
 }
 ```
 
