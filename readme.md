@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 3, 2024 9:54 PM
+- Updated: Jun 4, 2024 9:54 AM
 
 ```
 {
-    "title": "Chinese general accuses US of creating ‘Asian NATO’",
-    "domain": "bangkokpost.com",
-    "category": "worldnews",
-    "link": "https://www.bangkokpost.com/world/2803401/chinese-general-accuses-us-of-creating-asian-nato",
-    "timestamp": 1717388533,
-    "recorded": "June 3, 2024 12:22 AM"
+    "title": "Czech police detained four individuals linked to an attack on volunteers from the Prague Maidan initiative, who were raising funds in support of Ukraine. ",
+    "domain": "euromaidanpress.com",
+    "category": "ukraine",
+    "link": "https://euromaidanpress.com/2024/06/03/volunteers-raising-funds-for-ukraine-attacked-in-prague-four-suspects-arrested/",
+    "timestamp": 1717473612,
+    "recorded": "June 4, 2024 12:00 AM"
 }
 ```
 
