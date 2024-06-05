@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 4, 2024 9:54 AM
+- Updated: Jun 4, 2024 9:54 PM
 
 ```
 {
-    "title": "Czech police detained four individuals linked to an attack on volunteers from the Prague Maidan initiative, who were raising funds in support of Ukraine. ",
-    "domain": "euromaidanpress.com",
-    "category": "ukraine",
-    "link": "https://euromaidanpress.com/2024/06/03/volunteers-raising-funds-for-ukraine-attacked-in-prague-four-suspects-arrested/",
-    "timestamp": 1717473612,
-    "recorded": "June 4, 2024 12:00 AM"
+    "title": "Rare skull of an extinct, massive ‘thunder bird’ discovered in Australia",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2024/06/03/science/genyornis-newtoni-skull-thunder-bird-scn/index.html",
+    "timestamp": 1717480033,
+    "recorded": "June 4, 2024 1:47 AM"
 }
 ```
 
