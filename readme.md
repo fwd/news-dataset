@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 4, 2024 9:54 PM
+- Updated: Jun 5, 2024 9:54 AM
 
 ```
 {
-    "title": "Rare skull of an extinct, massive ‘thunder bird’ discovered in Australia",
+    "title": "Judge Cannon expands hearing on Trump’s request to declare special counsel’s appointment invalid",
     "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2024/06/03/science/genyornis-newtoni-skull-thunder-bird-scn/index.html",
-    "timestamp": 1717480033,
-    "recorded": "June 4, 2024 1:47 AM"
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/06/04/politics/cannon-trump-special-counsel-hearing?cid=ios_app",
+    "timestamp": 1717560482,
+    "recorded": "June 5, 2024 12:08 AM"
 }
 ```
 
