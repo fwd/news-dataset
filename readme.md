@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 5, 2024 9:54 PM
+- Updated: Jun 6, 2024 9:54 AM
 
 ```
 {
-    "title": "Colorado officials reach $8.5 million settlement with woman who was left handcuffed in a police car that was hit by a train",
-    "domain": "cnn.com",
+    "title": "Brother Marquis: 2 Live Crew rapper Mark D. Ross dies aged 58",
+    "domain": "bbc.com",
     "category": "news",
-    "link": "https://www.cnn.com/2024/06/04/us/fort-lupton-colorado-police-suspect-train-crash-settlement/index.html",
-    "timestamp": 1717560570,
-    "recorded": "June 5, 2024 12:09 AM"
+    "link": "https://www.bbc.com/news/articles/cprrv01dl52o",
+    "timestamp": 1717647383,
+    "recorded": "June 6, 2024 12:16 AM"
 }
 ```
 
