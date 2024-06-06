@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 5, 2024 9:54 AM
+- Updated: Jun 5, 2024 9:54 PM
 
 ```
 {
-    "title": "Judge Cannon expands hearing on Trump’s request to declare special counsel’s appointment invalid",
+    "title": "Colorado officials reach $8.5 million settlement with woman who was left handcuffed in a police car that was hit by a train",
     "domain": "cnn.com",
-    "category": "politics",
-    "link": "https://www.cnn.com/2024/06/04/politics/cannon-trump-special-counsel-hearing?cid=ios_app",
-    "timestamp": 1717560482,
-    "recorded": "June 5, 2024 12:08 AM"
+    "category": "news",
+    "link": "https://www.cnn.com/2024/06/04/us/fort-lupton-colorado-police-suspect-train-crash-settlement/index.html",
+    "timestamp": 1717560570,
+    "recorded": "June 5, 2024 12:09 AM"
 }
 ```
 
