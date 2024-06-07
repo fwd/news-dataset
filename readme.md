@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 6, 2024 9:54 AM
+- Updated: Jun 6, 2024 9:54 PM
 
 ```
 {
-    "title": "Brother Marquis: 2 Live Crew rapper Mark D. Ross dies aged 58",
-    "domain": "bbc.com",
+    "title": "OpenAI insiders’ open letter warns of ‘serious risks’ and calls for whistleblower protections",
+    "domain": "cnn.com",
     "category": "news",
-    "link": "https://www.bbc.com/news/articles/cprrv01dl52o",
-    "timestamp": 1717647383,
-    "recorded": "June 6, 2024 12:16 AM"
+    "link": "https://www.cnn.com/2024/06/04/tech/openai-insiders-letter/index.html",
+    "timestamp": 1717649029,
+    "recorded": "June 6, 2024 12:43 AM"
 }
 ```
 
