@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 7, 2024 9:54 AM
+- Updated: Jun 7, 2024 9:54 PM
 
 ```
 {
-    "title": "US to announce $225 million military aid package to Ukraine, including HIMARS rockets",
-    "domain": "kyivindependent.com",
-    "category": "worldnews",
-    "link": "https://kyivindependent.com/ap-us-to-announce-225-million-military-aid-package-to-ukraine-including-himars-rockets/",
-    "timestamp": 1717734782,
-    "recorded": "June 7, 2024 12:33 AM"
+    "title": "China’s exports grow more than expected in May, up by 7.6%",
+    "domain": "cnbc.com",
+    "category": "news",
+    "link": "https://www.cnbc.com/2024/06/07/china-trade-data-may-2024-exports-imports.html",
+    "timestamp": 1717739558,
+    "recorded": "June 7, 2024 1:52 AM"
 }
 ```
 
