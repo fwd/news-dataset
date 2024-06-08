@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 7, 2024 9:54 PM
+- Updated: Jun 8, 2024 9:54 AM
 
 ```
 {
-    "title": "China’s exports grow more than expected in May, up by 7.6%",
-    "domain": "cnbc.com",
-    "category": "news",
-    "link": "https://www.cnbc.com/2024/06/07/china-trade-data-may-2024-exports-imports.html",
-    "timestamp": 1717739558,
-    "recorded": "June 7, 2024 1:52 AM"
+    "title": "How Joe Biden 'broke OPEC' and rewrote the rules for oil trading",
+    "domain": "msnbc.com",
+    "category": "politics",
+    "link": "https://www.msnbc.com/all-in/watch/how-joe-biden-broke-opec-and-rewrote-the-rules-for-oil-trading-212500037935",
+    "timestamp": 1717820780,
+    "recorded": "June 8, 2024 12:26 AM"
 }
 ```
 
