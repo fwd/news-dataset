@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 8, 2024 9:54 AM
+- Updated: Jun 8, 2024 9:54 PM
 
 ```
 {
-    "title": "How Joe Biden 'broke OPEC' and rewrote the rules for oil trading",
-    "domain": "msnbc.com",
-    "category": "politics",
-    "link": "https://www.msnbc.com/all-in/watch/how-joe-biden-broke-opec-and-rewrote-the-rules-for-oil-trading-212500037935",
-    "timestamp": 1717820780,
-    "recorded": "June 8, 2024 12:26 AM"
+    "title": "Deception abilities emerged in large language models: Experiments show state-of-the-art LLMs are able to understand and induce false beliefs in other agents. Such strategies emerged in state-of-the-art LLMs, but were nonexistent in earlier LLMs.",
+    "domain": "pnas.org",
+    "category": "science",
+    "link": "https://www.pnas.org/doi/full/10.1073/pnas.2317967121",
+    "timestamp": 1717828095,
+    "recorded": "June 8, 2024 2:28 AM"
 }
 ```
 
