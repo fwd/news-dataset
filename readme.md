@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 8, 2024 9:54 PM
+- Updated: Jun 9, 2024 9:54 AM
 
 ```
 {
-    "title": "Deception abilities emerged in large language models: Experiments show state-of-the-art LLMs are able to understand and induce false beliefs in other agents. Such strategies emerged in state-of-the-art LLMs, but were nonexistent in earlier LLMs.",
-    "domain": "pnas.org",
-    "category": "science",
-    "link": "https://www.pnas.org/doi/full/10.1073/pnas.2317967121",
-    "timestamp": 1717828095,
-    "recorded": "June 8, 2024 2:28 AM"
+    "title": "Trump has promised mass raids and deportation if he wins the election. The ACLU is preparing to fight back.",
+    "domain": "pbs.org",
+    "category": "politics",
+    "link": "https://www.pbs.org/newshour/politics/trump-has-promised-mass-raids-and-deportation-if-he-wins-the-election-the-aclu-is-preparing-to-fight-back",
+    "timestamp": 1717907051,
+    "recorded": "June 9, 2024 12:24 AM"
 }
 ```
 
