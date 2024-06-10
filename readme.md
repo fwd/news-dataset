@@ -6,16 +6,16 @@
 - File Size: ~**25MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 9, 2024 9:54 AM
+- Updated: Jun 9, 2024 9:54 PM
 
 ```
 {
-    "title": "Trump has promised mass raids and deportation if he wins the election. The ACLU is preparing to fight back.",
-    "domain": "pbs.org",
-    "category": "politics",
-    "link": "https://www.pbs.org/newshour/politics/trump-has-promised-mass-raids-and-deportation-if-he-wins-the-election-the-aclu-is-preparing-to-fight-back",
-    "timestamp": 1717907051,
-    "recorded": "June 9, 2024 12:24 AM"
+    "title": "'Only half Chinese': China refused to help secure release of Noa Argamani",
+    "domain": "ynetnews.com",
+    "category": "worldnews",
+    "link": "https://www.ynetnews.com/article/bjx7jxgbc",
+    "timestamp": 1717909318,
+    "recorded": "June 9, 2024 1:01 AM"
 }
 ```
 
