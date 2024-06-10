@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 68k
 - File Type: JSON
-- File Size: ~**25MB**
+- File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 9, 2024 9:54 PM
+- Updated: Jun 10, 2024 9:54 AM
 
 ```
 {
-    "title": "'Only half Chinese': China refused to help secure release of Noa Argamani",
-    "domain": "ynetnews.com",
+    "title": "Turkey’s inflation passes 75% in what economists believe is peak",
+    "domain": "cnbc.com",
     "category": "worldnews",
-    "link": "https://www.ynetnews.com/article/bjx7jxgbc",
-    "timestamp": 1717909318,
-    "recorded": "June 9, 2024 1:01 AM"
+    "link": "https://www.cnbc.com/2024/06/03/turkeys-inflation-passes-75percent-in-what-economists-believe-is-peak.html",
+    "timestamp": 1717993008,
+    "recorded": "June 10, 2024 12:16 AM"
 }
 ```
 
