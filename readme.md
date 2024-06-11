@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 10, 2024 9:54 PM
+- Updated: Jun 11, 2024 9:54 AM
 
 ```
 {
-    "title": "Study shows enforced masking on long flights prevents SARS-CoV-2 transmission",
-    "domain": "mdpi.com",
-    "category": "science",
-    "link": "https://www.mdpi.com/1660-4601/21/6/654",
-    "timestamp": 1718000962,
-    "recorded": "June 10, 2024 2:29 AM"
+    "title": "Russia sending Africans to die in Ukraine war",
+    "domain": "taipeitimes.com",
+    "category": "worldnews",
+    "link": "https://www.taipeitimes.com/News/world/archives/2024/06/10/2003819147",
+    "timestamp": 1718081816,
+    "recorded": "June 11, 2024 12:56 AM"
 }
 ```
 
