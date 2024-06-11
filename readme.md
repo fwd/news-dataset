@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 10, 2024 9:54 AM
+- Updated: Jun 10, 2024 9:54 PM
 
 ```
 {
-    "title": "Turkey’s inflation passes 75% in what economists believe is peak",
-    "domain": "cnbc.com",
-    "category": "worldnews",
-    "link": "https://www.cnbc.com/2024/06/03/turkeys-inflation-passes-75percent-in-what-economists-believe-is-peak.html",
-    "timestamp": 1717993008,
-    "recorded": "June 10, 2024 12:16 AM"
+    "title": "Study shows enforced masking on long flights prevents SARS-CoV-2 transmission",
+    "domain": "mdpi.com",
+    "category": "science",
+    "link": "https://www.mdpi.com/1660-4601/21/6/654",
+    "timestamp": 1718000962,
+    "recorded": "June 10, 2024 2:29 AM"
 }
 ```
 
