@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 11, 2024 9:54 AM
+- Updated: Jun 11, 2024 9:54 PM
 
 ```
 {
-    "title": "Russia sending Africans to die in Ukraine war",
-    "domain": "taipeitimes.com",
-    "category": "worldnews",
-    "link": "https://www.taipeitimes.com/News/world/archives/2024/06/10/2003819147",
-    "timestamp": 1718081816,
-    "recorded": "June 11, 2024 12:56 AM"
+    "title": "This Tucson homeowner didn't know his house was built on a cemetery — until he found bones",
+    "domain": "kjzz.org",
+    "category": "news",
+    "link": "https://kjzz.org/content/1882053/tucson-homeowner-didnt-know-his-house-was-built-cemetery-until-he-found-bones",
+    "timestamp": 1718084265,
+    "recorded": "June 11, 2024 1:37 AM"
 }
 ```
 
