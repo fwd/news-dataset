@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 11, 2024 9:54 PM
+- Updated: Jun 12, 2024 9:54 AM
 
 ```
 {
-    "title": "This Tucson homeowner didn't know his house was built on a cemetery — until he found bones",
-    "domain": "kjzz.org",
-    "category": "news",
-    "link": "https://kjzz.org/content/1882053/tucson-homeowner-didnt-know-his-house-was-built-cemetery-until-he-found-bones",
-    "timestamp": 1718084265,
-    "recorded": "June 11, 2024 1:37 AM"
+    "title": "Senior Israeli official: Hamas rejected the outline of the hostage deal",
+    "domain": "m.jpost.com",
+    "category": "worldnews",
+    "link": "https://m.jpost.com/breaking-news/article-805902",
+    "timestamp": 1718165037,
+    "recorded": "June 12, 2024 12:03 AM"
 }
 ```
 
