@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 12, 2024 9:54 PM
+- Updated: Jun 13, 2024 9:54 AM
 
 ```
 {
-    "title": "19-y-old Afghan man stabs a Ukrainian woman multiple times in a park in Frankfurt, Germany",
-    "domain": "unn.ua",
-    "category": "ukraine",
-    "link": "https://unn.ua/en/amp/an-afghan-attacked-a-ukrainian-woman-with-a-knife-in-germany-bild",
-    "timestamp": 1718166436,
-    "recorded": "June 12, 2024 12:27 AM"
+    "title": "Buenos Aires rocked by clashes over President Milei reforms",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/articles/c255zdlde92o",
+    "timestamp": 1718253147,
+    "recorded": "June 13, 2024 12:32 AM"
 }
 ```
 
