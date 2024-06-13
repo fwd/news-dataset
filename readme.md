@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 12, 2024 9:54 AM
+- Updated: Jun 12, 2024 9:54 PM
 
 ```
 {
-    "title": "Senior Israeli official: Hamas rejected the outline of the hostage deal",
-    "domain": "m.jpost.com",
-    "category": "worldnews",
-    "link": "https://m.jpost.com/breaking-news/article-805902",
-    "timestamp": 1718165037,
-    "recorded": "June 12, 2024 12:03 AM"
+    "title": "19-y-old Afghan man stabs a Ukrainian woman multiple times in a park in Frankfurt, Germany",
+    "domain": "unn.ua",
+    "category": "ukraine",
+    "link": "https://unn.ua/en/amp/an-afghan-attacked-a-ukrainian-woman-with-a-knife-in-germany-bild",
+    "timestamp": 1718166436,
+    "recorded": "June 12, 2024 12:27 AM"
 }
 ```
 
