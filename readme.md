@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 13, 2024 9:54 PM
+- Updated: Jun 14, 2024 9:54 AM
 
 ```
 {
-    "title": "Buenos Aires rocked by clashes over President Milei reforms",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/articles/c255zdlde92o",
-    "timestamp": 1718253147,
-    "recorded": "June 13, 2024 12:32 AM"
+    "title": "Joe Biden Declares 'Democracies Can Deliver' as G7 Approves $50bn Aid Deal for Ukraine",
+    "domain": "citytelegraph.com",
+    "category": "worldnews",
+    "link": "https://citytelegraph.com/news/169301/joe-biden-declares-democracies-can-deliver-as-g7-approves-50bn-aid-deal-for-ukraine/",
+    "timestamp": 1718341447,
+    "recorded": "June 14, 2024 1:04 AM"
 }
 ```
 
