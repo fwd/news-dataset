@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 14, 2024 9:54 PM
+- Updated: Jun 15, 2024 9:54 AM
 
 ```
 {
-    "title": "Joe Biden Declares 'Democracies Can Deliver' as G7 Approves $50bn Aid Deal for Ukraine",
-    "domain": "citytelegraph.com",
+    "title": "G7 leaders accuse China of ‘enabling’ Russia war on Ukraine in stark warning",
+    "domain": "edition.cnn.com",
     "category": "worldnews",
-    "link": "https://citytelegraph.com/news/169301/joe-biden-declares-democracies-can-deliver-as-g7-approves-50bn-aid-deal-for-ukraine/",
-    "timestamp": 1718341447,
-    "recorded": "June 14, 2024 1:04 AM"
+    "link": "https://edition.cnn.com/2024/06/14/china/g7-accuses-china-enabling-russia-war-ukraine-intl-hnk/index.html",
+    "timestamp": 1718425212,
+    "recorded": "June 15, 2024 12:20 AM"
 }
 ```
 
