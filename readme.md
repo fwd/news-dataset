@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 15, 2024 9:54 AM
+- Updated: Jun 15, 2024 9:54 PM
 
 ```
 {
-    "title": "G7 leaders accuse China of ‘enabling’ Russia war on Ukraine in stark warning",
-    "domain": "edition.cnn.com",
+    "title": "Seoul Says North Korea Sent Almost 5 Million Artillery Shells to Russia",
+    "domain": "kyivpost.com",
     "category": "worldnews",
-    "link": "https://edition.cnn.com/2024/06/14/china/g7-accuses-china-enabling-russia-war-ukraine-intl-hnk/index.html",
-    "timestamp": 1718425212,
-    "recorded": "June 15, 2024 12:20 AM"
+    "link": "https://www.kyivpost.com/post/34302",
+    "timestamp": 1718427959,
+    "recorded": "June 15, 2024 1:05 AM"
 }
 ```
 
