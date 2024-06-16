@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 15, 2024 9:54 PM
+- Updated: Jun 16, 2024 9:54 AM
 
 ```
 {
-    "title": "Seoul Says North Korea Sent Almost 5 Million Artillery Shells to Russia",
-    "domain": "kyivpost.com",
+    "title": "Israeli military announces 'tactical pause' in attempt to increase flow of aid into hard-hit Gaza",
+    "domain": "apnews.com",
     "category": "worldnews",
-    "link": "https://www.kyivpost.com/post/34302",
-    "timestamp": 1718427959,
-    "recorded": "June 15, 2024 1:05 AM"
+    "link": "https://apnews.com/article/8c111f2dcf783f8671e6dd6f19547b17",
+    "timestamp": 1718511317,
+    "recorded": "June 16, 2024 12:15 AM"
 }
 ```
 
