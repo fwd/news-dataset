@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 16, 2024 9:54 PM
+- Updated: Jun 17, 2024 9:54 AM
 
 ```
 {
-    "title": "‘Close ally’ Japan set to sanction Indian firms for trade ties with Russia",
-    "domain": "tribuneindia.com",
+    "title": "'Main damage is to our image:' Israeli defense industry reels from French expo ban",
+    "domain": "ynetnews.com",
     "category": "worldnews",
-    "link": "https://www.tribuneindia.com/news/india/close-ally-japan-set-to-sanction-indian-firms-for-trade-ties-with-russia-631139",
-    "timestamp": 1718520308,
-    "recorded": "June 16, 2024 2:45 AM"
+    "link": "https://www.ynetnews.com/article/r1w4i2nrc",
+    "timestamp": 1718599277,
+    "recorded": "June 17, 2024 12:41 AM"
 }
 ```
 
