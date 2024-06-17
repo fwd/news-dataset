@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 16, 2024 9:54 AM
+- Updated: Jun 16, 2024 9:54 PM
 
 ```
 {
-    "title": "Israeli military announces 'tactical pause' in attempt to increase flow of aid into hard-hit Gaza",
-    "domain": "apnews.com",
+    "title": "‘Close ally’ Japan set to sanction Indian firms for trade ties with Russia",
+    "domain": "tribuneindia.com",
     "category": "worldnews",
-    "link": "https://apnews.com/article/8c111f2dcf783f8671e6dd6f19547b17",
-    "timestamp": 1718511317,
-    "recorded": "June 16, 2024 12:15 AM"
+    "link": "https://www.tribuneindia.com/news/india/close-ally-japan-set-to-sanction-indian-firms-for-trade-ties-with-russia-631139",
+    "timestamp": 1718520308,
+    "recorded": "June 16, 2024 2:45 AM"
 }
 ```
 
