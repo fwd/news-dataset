@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 17, 2024 9:54 PM
+- Updated: Jun 18, 2024 9:54 AM
 
 ```
 {
-    "title": "'Main damage is to our image:' Israeli defense industry reels from French expo ban",
-    "domain": "ynetnews.com",
-    "category": "worldnews",
-    "link": "https://www.ynetnews.com/article/r1w4i2nrc",
-    "timestamp": 1718599277,
-    "recorded": "June 17, 2024 12:41 AM"
+    "title": "Opinion: Call it ‘Make America Chaste Again.’ And it’s a losing message for the GOP in 2024",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/06/17/opinions/birth-control-contraception-gop-trump-project-2025-finney/index.html",
+    "timestamp": 1718685932,
+    "recorded": "June 18, 2024 12:45 AM"
 }
 ```
 
