@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 18, 2024 9:54 AM
+- Updated: Jun 18, 2024 9:54 PM
 
 ```
 {
-    "title": "Opinion: Call it ‘Make America Chaste Again.’ And it’s a losing message for the GOP in 2024",
-    "domain": "cnn.com",
-    "category": "politics",
-    "link": "https://www.cnn.com/2024/06/17/opinions/birth-control-contraception-gop-trump-project-2025-finney/index.html",
-    "timestamp": 1718685932,
-    "recorded": "June 18, 2024 12:45 AM"
+    "title": "Mayor-elect pulled off bus and assassinated near resort city of Acapulco",
+    "domain": "cbsnews.com",
+    "category": "worldnews",
+    "link": "https://www.cbsnews.com/news/mayor-elect-assassinated-mexico-salvador-villalba-flores-killed-near-acapulco/",
+    "timestamp": 1718688772,
+    "recorded": "June 18, 2024 1:32 AM"
 }
 ```
 
