@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 18, 2024 9:54 PM
+- Updated: Jun 19, 2024 9:54 AM
 
 ```
 {
-    "title": "Mayor-elect pulled off bus and assassinated near resort city of Acapulco",
-    "domain": "cbsnews.com",
-    "category": "worldnews",
-    "link": "https://www.cbsnews.com/news/mayor-elect-assassinated-mexico-salvador-villalba-flores-killed-near-acapulco/",
-    "timestamp": 1718688772,
-    "recorded": "June 18, 2024 1:32 AM"
+    "title": "Astronauts’ return delayed again as Boeing and NASA try to learn more about spacecraft issues|CNN",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2024/06/18/science/boeing-starliner-astronaut-mission-return-delay-scn/index.html",
+    "timestamp": 1718769742,
+    "recorded": "June 19, 2024 12:02 AM"
 }
 ```
 
