@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 19, 2024 9:54 PM
+- Updated: Jun 20, 2024 9:54 AM
 
 ```
 {
-    "title": "Astronauts’ return delayed again as Boeing and NASA try to learn more about spacecraft issues|CNN",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2024/06/18/science/boeing-starliner-astronaut-mission-return-delay-scn/index.html",
-    "timestamp": 1718769742,
-    "recorded": "June 19, 2024 12:02 AM"
+    "title": "Trump left red-faced in Virginia after MAGA candidate fails to grab decisive win",
+    "domain": "independent.co.uk",
+    "category": "politics",
+    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-virginia-primary-bob-good-b2565446.html",
+    "timestamp": 1718856963,
+    "recorded": "June 20, 2024 12:16 AM"
 }
 ```
 
