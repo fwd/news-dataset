@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 20, 2024 9:54 AM
+- Updated: Jun 20, 2024 9:54 PM
 
 ```
 {
-    "title": "Trump left red-faced in Virginia after MAGA candidate fails to grab decisive win",
-    "domain": "independent.co.uk",
-    "category": "politics",
-    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-virginia-primary-bob-good-b2565446.html",
-    "timestamp": 1718856963,
-    "recorded": "June 20, 2024 12:16 AM"
+    "title": "Macron, French Jews call for action after antisemitic rape of 12-year-old girl",
+    "domain": "jpost.com",
+    "category": "worldnews",
+    "link": "https://www.jpost.com/bds-threat/article-806927",
+    "timestamp": 1718859757,
+    "recorded": "June 20, 2024 1:02 AM"
 }
 ```
 
