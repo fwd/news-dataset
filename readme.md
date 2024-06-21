@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 20, 2024 9:54 PM
+- Updated: Jun 21, 2024 9:54 AM
 
 ```
 {
-    "title": "Macron, French Jews call for action after antisemitic rape of 12-year-old girl",
-    "domain": "jpost.com",
-    "category": "worldnews",
-    "link": "https://www.jpost.com/bds-threat/article-806927",
-    "timestamp": 1718859757,
-    "recorded": "June 20, 2024 1:02 AM"
+    "title": "Trump's memory 'very foggy,' says author who interviewed him post-presidency",
+    "domain": "nbcnews.com",
+    "category": "politics",
+    "link": "https://www.nbcnews.com/politics/2024-election/trumps-memory-foggy-says-author-ramin-setoodeh-rcna158219",
+    "timestamp": 1718943181,
+    "recorded": "June 21, 2024 12:13 AM"
 }
 ```
 
