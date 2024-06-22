@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 69k
+- Articles: 70k
 - File Type: JSON
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 21, 2024 9:54 PM
+- Updated: Jun 22, 2024 9:54 AM
 
 ```
 {
-    "title": "Study, whose research was funded by Singapore's Ministry of Education, suggests that 2 years of mild caloric restriction significantly reduces biological age",
-    "domain": "newsweek.com",
-    "category": "science",
-    "link": "https://www.newsweek.com/new-study-biological-aging-calorie-restriction-1915474",
-    "timestamp": 1718951477,
-    "recorded": "June 21, 2024 2:31 AM"
+    "title": "China sanctions Lockheed Martin over Taiwan arms sales",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/business/aerospace-defense/china-sanctions-lockheed-martin-over-taiwan-arms-sales-2024-06-21/",
+    "timestamp": 1719029827,
+    "recorded": "June 22, 2024 12:17 AM"
 }
 ```
 
