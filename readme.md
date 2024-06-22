@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 21, 2024 9:54 AM
+- Updated: Jun 21, 2024 9:54 PM
 
 ```
 {
-    "title": "Trump's memory 'very foggy,' says author who interviewed him post-presidency",
-    "domain": "nbcnews.com",
-    "category": "politics",
-    "link": "https://www.nbcnews.com/politics/2024-election/trumps-memory-foggy-says-author-ramin-setoodeh-rcna158219",
-    "timestamp": 1718943181,
-    "recorded": "June 21, 2024 12:13 AM"
+    "title": "Study, whose research was funded by Singapore's Ministry of Education, suggests that 2 years of mild caloric restriction significantly reduces biological age",
+    "domain": "newsweek.com",
+    "category": "science",
+    "link": "https://www.newsweek.com/new-study-biological-aging-calorie-restriction-1915474",
+    "timestamp": 1718951477,
+    "recorded": "June 21, 2024 2:31 AM"
 }
 ```
 
