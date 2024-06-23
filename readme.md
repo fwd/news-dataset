@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 22, 2024 9:54 AM
+- Updated: Jun 22, 2024 9:54 PM
 
 ```
 {
-    "title": "China sanctions Lockheed Martin over Taiwan arms sales",
-    "domain": "reuters.com",
+    "title": "Weary Lebanese brace for war after new Hezbollah threats",
+    "domain": "ynetnews.com",
     "category": "worldnews",
-    "link": "https://www.reuters.com/business/aerospace-defense/china-sanctions-lockheed-martin-over-taiwan-arms-sales-2024-06-21/",
-    "timestamp": 1719029827,
-    "recorded": "June 22, 2024 12:17 AM"
+    "link": "https://www.ynetnews.com/article/rkpjizxua",
+    "timestamp": 1719033607,
+    "recorded": "June 22, 2024 1:20 AM"
 }
 ```
 
