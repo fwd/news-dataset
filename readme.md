@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 22, 2024 9:54 PM
+- Updated: Jun 23, 2024 9:54 AM
 
 ```
 {
-    "title": "Weary Lebanese brace for war after new Hezbollah threats",
-    "domain": "ynetnews.com",
+    "title": "Japan unions ask labor ministry to raise minimum wage uniformly to 1,500 yen an hour",
+    "domain": "mainichi.jp",
     "category": "worldnews",
-    "link": "https://www.ynetnews.com/article/rkpjizxua",
-    "timestamp": 1719033607,
-    "recorded": "June 22, 2024 1:20 AM"
+    "link": "https://mainichi.jp/english/articles/20240622/p2a/00m/0bu/006000c#cxrecs_s",
+    "timestamp": 1719117267,
+    "recorded": "June 23, 2024 12:34 AM"
 }
 ```
 
