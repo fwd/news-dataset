@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 23, 2024 9:54 AM
+- Updated: Jun 23, 2024 9:54 PM
 
 ```
 {
-    "title": "Japan unions ask labor ministry to raise minimum wage uniformly to 1,500 yen an hour",
-    "domain": "mainichi.jp",
-    "category": "worldnews",
-    "link": "https://mainichi.jp/english/articles/20240622/p2a/00m/0bu/006000c#cxrecs_s",
-    "timestamp": 1719117267,
-    "recorded": "June 23, 2024 12:34 AM"
+    "title": "New research blames climate change for killing critical marsh grass",
+    "domain": "veritenews.org",
+    "category": "science",
+    "link": "https://veritenews.org/2024/06/12/lsu-study-climate-change-roseau-cane/",
+    "timestamp": 1719120112,
+    "recorded": "June 23, 2024 1:21 AM"
 }
 ```
 
