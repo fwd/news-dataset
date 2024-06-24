@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 23, 2024 9:54 PM
+- Updated: Jun 24, 2024 9:54 AM
 
 ```
 {
-    "title": "New research blames climate change for killing critical marsh grass",
-    "domain": "veritenews.org",
-    "category": "science",
-    "link": "https://veritenews.org/2024/06/12/lsu-study-climate-change-roseau-cane/",
-    "timestamp": 1719120112,
-    "recorded": "June 23, 2024 1:21 AM"
+    "title": "Saudi Arabia says deaths during Haj pilgrimage reach 1,301, as officials defend management decisions",
+    "domain": "channelnewsasia.com",
+    "category": "worldnews",
+    "link": "https://www.channelnewsasia.com/world/saudi-arabia-haj-pilgrimage-deaths-management-defends-4428166",
+    "timestamp": 1719202384,
+    "recorded": "June 24, 2024 12:13 AM"
 }
 ```
 
