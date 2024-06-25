@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 24, 2024 9:54 AM
+- Updated: Jun 24, 2024 9:54 PM
 
 ```
 {
-    "title": "Saudi Arabia says deaths during Haj pilgrimage reach 1,301, as officials defend management decisions",
-    "domain": "channelnewsasia.com",
+    "title": "North Korea warns US of ‘new world war’ over Ukraine after pact with Putin",
+    "domain": "scmp.com",
     "category": "worldnews",
-    "link": "https://www.channelnewsasia.com/world/saudi-arabia-haj-pilgrimage-deaths-management-defends-4428166",
-    "timestamp": 1719202384,
-    "recorded": "June 24, 2024 12:13 AM"
+    "link": "https://www.scmp.com/news/asia/east-asia/article/3267761/north-korea-warns-us-new-world-war-over-ukraine-after-pact-putin?module=top_story&pgtype=homepage",
+    "timestamp": 1719203078,
+    "recorded": "June 24, 2024 12:24 AM"
 }
 ```
 
