@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 24, 2024 9:54 PM
+- Updated: Jun 25, 2024 9:54 AM
 
 ```
 {
-    "title": "North Korea warns US of ‘new world war’ over Ukraine after pact with Putin",
-    "domain": "scmp.com",
+    "title": "Russian group Lockbit allegedly hacks Federal Reserve",
+    "domain": "redhotcyber.com",
     "category": "worldnews",
-    "link": "https://www.scmp.com/news/asia/east-asia/article/3267761/north-korea-warns-us-new-world-war-over-ukraine-after-pact-putin?module=top_story&pgtype=homepage",
-    "timestamp": 1719203078,
-    "recorded": "June 24, 2024 12:24 AM"
+    "link": "https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/",
+    "timestamp": 1719288721,
+    "recorded": "June 25, 2024 12:12 AM"
 }
 ```
 
