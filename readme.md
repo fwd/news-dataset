@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 25, 2024 9:54 PM
+- Updated: Jun 26, 2024 9:54 AM
 
 ```
 {
-    "title": "New horrific footage shows kidnapping of Hersh Goldberg-Polin, Or Levy and Eliya Cohen by Hamas terrorists on Oct 7",
-    "domain": "allisrael.com",
-    "category": "worldnews",
-    "link": "https://allisrael.com/new-horrific-footage-shows-kidnapping-of-hersh-goldberg-polin-or-levy-and-eliya-cohen-on-oct-7",
-    "timestamp": 1719293205,
-    "recorded": "June 25, 2024 1:26 AM"
+    "title": "Yak-52 Kill Marks Hint At Success In Ukraine’s Drone War.For the first time, a Ukrainian Yak-52 propeller-driven trainer has appeared with markings that could indicate a string of aerial victories against Russian drones.",
+    "domain": "twz.com",
+    "category": "ukraine",
+    "link": "https://www.twz.com/air/yak-52-kill-marks-hint-at-success-in-ukraines-drone-war",
+    "timestamp": 1719379116,
+    "recorded": "June 26, 2024 1:18 AM"
 }
 ```
 
