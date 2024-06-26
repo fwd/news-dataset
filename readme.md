@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 25, 2024 9:54 AM
+- Updated: Jun 25, 2024 9:54 PM
 
 ```
 {
-    "title": "Russian group Lockbit allegedly hacks Federal Reserve",
-    "domain": "redhotcyber.com",
+    "title": "New horrific footage shows kidnapping of Hersh Goldberg-Polin, Or Levy and Eliya Cohen by Hamas terrorists on Oct 7",
+    "domain": "allisrael.com",
     "category": "worldnews",
-    "link": "https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/",
-    "timestamp": 1719288721,
-    "recorded": "June 25, 2024 12:12 AM"
+    "link": "https://allisrael.com/new-horrific-footage-shows-kidnapping-of-hersh-goldberg-polin-or-levy-and-eliya-cohen-on-oct-7",
+    "timestamp": 1719293205,
+    "recorded": "June 25, 2024 1:26 AM"
 }
 ```
 
