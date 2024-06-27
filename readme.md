@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 26, 2024 9:54 PM
+- Updated: Jun 27, 2024 9:54 AM
 
 ```
 {
-    "title": "VW to invest up to $5bn in Tesla rival Rivian",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/articles/c1ddmxmz1lpo",
-    "timestamp": 1719383533,
-    "recorded": "June 26, 2024 2:32 AM"
+    "title": "Donald Trump Evidence Shows 'Criminal Intent'—Ex-FBI Assistant Director",
+    "domain": "newsweek.com",
+    "category": "politics",
+    "link": "https://www.newsweek.com/donald-trump-jack-smith-mar-lago-florida-classified-documents-case-fbi-1917740",
+    "timestamp": 1719461607,
+    "recorded": "June 27, 2024 12:13 AM"
 }
 ```
 
