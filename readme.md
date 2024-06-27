@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 26, 2024 9:54 AM
+- Updated: Jun 26, 2024 9:54 PM
 
 ```
 {
-    "title": "Yak-52 Kill Marks Hint At Success In Ukraine’s Drone War.For the first time, a Ukrainian Yak-52 propeller-driven trainer has appeared with markings that could indicate a string of aerial victories against Russian drones.",
-    "domain": "twz.com",
-    "category": "ukraine",
-    "link": "https://www.twz.com/air/yak-52-kill-marks-hint-at-success-in-ukraines-drone-war",
-    "timestamp": 1719379116,
-    "recorded": "June 26, 2024 1:18 AM"
+    "title": "VW to invest up to $5bn in Tesla rival Rivian",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/articles/c1ddmxmz1lpo",
+    "timestamp": 1719383533,
+    "recorded": "June 26, 2024 2:32 AM"
 }
 ```
 
