@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 27, 2024 9:54 PM
+- Updated: Jun 28, 2024 9:54 AM
 
 ```
 {
-    "title": "Harrowing torture: Ukrainian prisoners suffer severe abuse in Russian captivity",
-    "domain": "jpost.com",
-    "category": "worldnews",
-    "link": "https://www.jpost.com/international/article-807950",
-    "timestamp": 1719463164,
-    "recorded": "June 27, 2024 12:39 AM"
+    "title": "'That was painful': Van Jones reacts to Biden's debate performance",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/06/27/politics/video/van-jones-reaction-biden-trump-cnn-debate-digvid",
+    "timestamp": 1719547425,
+    "recorded": "June 28, 2024 12:03 AM"
 }
 ```
 
