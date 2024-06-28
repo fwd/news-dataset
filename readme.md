@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 27, 2024 9:54 AM
+- Updated: Jun 27, 2024 9:54 PM
 
 ```
 {
-    "title": "Donald Trump Evidence Shows 'Criminal Intent'—Ex-FBI Assistant Director",
-    "domain": "newsweek.com",
-    "category": "politics",
-    "link": "https://www.newsweek.com/donald-trump-jack-smith-mar-lago-florida-classified-documents-case-fbi-1917740",
-    "timestamp": 1719461607,
-    "recorded": "June 27, 2024 12:13 AM"
+    "title": "Harrowing torture: Ukrainian prisoners suffer severe abuse in Russian captivity",
+    "domain": "jpost.com",
+    "category": "worldnews",
+    "link": "https://www.jpost.com/international/article-807950",
+    "timestamp": 1719463164,
+    "recorded": "June 27, 2024 12:39 AM"
 }
 ```
 
