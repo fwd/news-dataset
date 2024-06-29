@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 28, 2024 9:54 PM
+- Updated: Jun 29, 2024 9:54 AM
 
 ```
 {
-    "title": "Zelensky: 'Ukraine doesn't want war to last for years,' looking ahead to 2nd peace summit",
-    "domain": "kyivindependent.com",
-    "category": "worldnews",
-    "link": "https://kyivindependent.com/zelensky-17/",
-    "timestamp": 1719547465,
-    "recorded": "June 28, 2024 12:04 AM"
+    "title": "Biden lacked oomph, but the transcript tells a different tale",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/opinion/campaign/4745771-biden-lacked-oomph-but-the-transcript-tells-a-different-tale/",
+    "timestamp": 1719634854,
+    "recorded": "June 29, 2024 12:20 AM"
 }
 ```
 
