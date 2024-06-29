@@ -6,16 +6,16 @@
 - File Size: ~**26MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 28, 2024 9:54 AM
+- Updated: Jun 28, 2024 9:54 PM
 
 ```
 {
-    "title": "'That was painful': Van Jones reacts to Biden's debate performance",
-    "domain": "cnn.com",
-    "category": "politics",
-    "link": "https://www.cnn.com/2024/06/27/politics/video/van-jones-reaction-biden-trump-cnn-debate-digvid",
-    "timestamp": 1719547425,
-    "recorded": "June 28, 2024 12:03 AM"
+    "title": "Zelensky: 'Ukraine doesn't want war to last for years,' looking ahead to 2nd peace summit",
+    "domain": "kyivindependent.com",
+    "category": "worldnews",
+    "link": "https://kyivindependent.com/zelensky-17/",
+    "timestamp": 1719547465,
+    "recorded": "June 28, 2024 12:04 AM"
 }
 ```
 
