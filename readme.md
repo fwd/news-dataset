@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 70k
+- Articles: 71k
 - File Type: JSON
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 29, 2024 9:54 PM
+- Updated: Jun 30, 2024 9:54 AM
 
 ```
 {
-    "title": "Biden lacked oomph, but the transcript tells a different tale",
-    "domain": "thehill.com",
+    "title": "Biden campaign argues president dropping out would 'lead to weeks of chaos'",
+    "domain": "abcnews.go.com",
     "category": "politics",
-    "link": "https://thehill.com/opinion/campaign/4745771-biden-lacked-oomph-but-the-transcript-tells-a-different-tale/",
-    "timestamp": 1719634854,
-    "recorded": "June 29, 2024 12:20 AM"
+    "link": "https://abcnews.go.com/Politics/biden-campaign-argues-president-dropping-lead-weeks-chaos/story?id=111552401",
+    "timestamp": 1719720895,
+    "recorded": "June 30, 2024 12:14 AM"
 }
 ```
 
