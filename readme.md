@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jun 30, 2024 9:54 PM
+- Updated: Jul 1, 2024 9:54 AM
 
 ```
 {
-    "title": "Biden campaign argues president dropping out would 'lead to weeks of chaos'",
-    "domain": "abcnews.go.com",
+    "title": "After the debate, it’s clear Trump should drop out of the race",
+    "domain": "michiganadvance.com",
     "category": "politics",
-    "link": "https://abcnews.go.com/Politics/biden-campaign-argues-president-dropping-lead-weeks-chaos/story?id=111552401",
-    "timestamp": 1719720895,
-    "recorded": "June 30, 2024 12:14 AM"
+    "link": "https://michiganadvance.com/2024/06/30/after-the-debate-its-clear-trump-should-drop-out-of-the-race/",
+    "timestamp": 1719808452,
+    "recorded": "July 1, 2024 12:34 AM"
 }
 ```
 
