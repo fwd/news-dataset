@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 1, 2024 9:54 AM
+- Updated: Jul 1, 2024 9:54 PM
 
 ```
 {
-    "title": "After the debate, it’s clear Trump should drop out of the race",
-    "domain": "michiganadvance.com",
-    "category": "politics",
-    "link": "https://michiganadvance.com/2024/06/30/after-the-debate-its-clear-trump-should-drop-out-of-the-race/",
-    "timestamp": 1719808452,
-    "recorded": "July 1, 2024 12:34 AM"
+    "title": "Turkish airport workers refuse to refuel El Al plane after emergency landing",
+    "domain": "timesofisrael.com",
+    "category": "worldnews",
+    "link": "https://www.timesofisrael.com/turkish-airport-workers-refuse-to-refuel-el-al-plane-after-emergency-landing/",
+    "timestamp": 1719809970,
+    "recorded": "July 1, 2024 12:59 AM"
 }
 ```
 
