@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 1, 2024 9:54 PM
+- Updated: Jul 2, 2024 9:54 AM
 
 ```
 {
-    "title": "Turkish airport workers refuse to refuel El Al plane after emergency landing",
-    "domain": "timesofisrael.com",
-    "category": "worldnews",
-    "link": "https://www.timesofisrael.com/turkish-airport-workers-refuse-to-refuel-el-al-plane-after-emergency-landing/",
-    "timestamp": 1719809970,
-    "recorded": "July 1, 2024 12:59 AM"
+    "title": "God save us from this dishonorable court | An egregious, unconscionable ruling on presidential immunity from the Supreme Court",
+    "domain": "washingtonpost.com",
+    "category": "politics",
+    "link": "https://www.washingtonpost.com/opinions/2024/07/01/immunity-trump-justices-2024/",
+    "timestamp": 1719895318,
+    "recorded": "July 2, 2024 12:41 AM"
 }
 ```
 
