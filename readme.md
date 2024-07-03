@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 2, 2024 9:54 AM
+- Updated: Jul 2, 2024 9:54 PM
 
 ```
 {
-    "title": "God save us from this dishonorable court | An egregious, unconscionable ruling on presidential immunity from the Supreme Court",
-    "domain": "washingtonpost.com",
-    "category": "politics",
-    "link": "https://www.washingtonpost.com/opinions/2024/07/01/immunity-trump-justices-2024/",
-    "timestamp": 1719895318,
-    "recorded": "July 2, 2024 12:41 AM"
+    "title": "NATO plans to establish new post in Kyiv, 'Trump-proof' Ukraine aid, WSJ reports",
+    "domain": "kyivindependent.com",
+    "category": "ukraine",
+    "link": "https://kyivindependent.com/nato-plans-to-establish-new-post-in-kyiv-trump-proof-ukraine-aid-wsj-reports/",
+    "timestamp": 1719903765,
+    "recorded": "July 2, 2024 3:02 AM"
 }
 ```
 
