@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 3, 2024 9:54 AM
+- Updated: Jul 3, 2024 9:54 PM
 
 ```
 {
-    "title": "Biden says ignoring climate change is deadly, irresponsible",
-    "domain": "voanews.com",
-    "category": "politics",
-    "link": "https://www.voanews.com/a/biden-says-ignoring-climate-change-is-deadly-irresponsible/7682736.html",
-    "timestamp": 1719980581,
-    "recorded": "July 3, 2024 12:23 AM"
+    "title": "Amsterdam overtourism: City moves to ban cruise ships",
+    "domain": "euronews.com",
+    "category": "worldnews",
+    "link": "https://www.euronews.com/travel/2024/07/02/amsterdam-plans-to-ban-cruise-ships-from-the-city-centre-what-will-it-mean-for-tourists",
+    "timestamp": 1719987901,
+    "recorded": "July 3, 2024 2:25 AM"
 }
 ```
 
