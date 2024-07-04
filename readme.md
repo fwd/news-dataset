@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 3, 2024 9:54 PM
+- Updated: Jul 4, 2024 9:54 AM
 
 ```
 {
-    "title": "Amsterdam overtourism: City moves to ban cruise ships",
-    "domain": "euronews.com",
-    "category": "worldnews",
-    "link": "https://www.euronews.com/travel/2024/07/02/amsterdam-plans-to-ban-cruise-ships-from-the-city-centre-what-will-it-mean-for-tourists",
-    "timestamp": 1719987901,
-    "recorded": "July 3, 2024 2:25 AM"
+    "title": "Katie Johnson v. Donald J. Trump, 5:16-cv-00797",
+    "domain": "courtlistener.com",
+    "category": "politics",
+    "link": "https://www.courtlistener.com/docket/4154484/katie-johnson-v-donald-j-trump/",
+    "timestamp": 1720065806,
+    "recorded": "July 4, 2024 12:03 AM"
 }
 ```
 
