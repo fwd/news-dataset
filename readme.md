@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 4, 2024 9:54 AM
+- Updated: Jul 4, 2024 9:54 PM
 
 ```
 {
-    "title": "Katie Johnson v. Donald J. Trump, 5:16-cv-00797",
-    "domain": "courtlistener.com",
-    "category": "politics",
-    "link": "https://www.courtlistener.com/docket/4154484/katie-johnson-v-donald-j-trump/",
-    "timestamp": 1720065806,
-    "recorded": "July 4, 2024 12:03 AM"
+    "title": "'Exceptionally dangerous situation:' Historic California heat wave putting millions at risk",
+    "domain": "latimes.com",
+    "category": "news",
+    "link": "https://www.latimes.com/california/story/2024-07-03/dangerous-california-heat-wave?utm_source=reddit.com",
+    "timestamp": 1720068098,
+    "recorded": "July 4, 2024 12:41 AM"
 }
 ```
 
