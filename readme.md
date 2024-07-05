@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 4, 2024 9:54 PM
+- Updated: Jul 5, 2024 9:54 AM
 
 ```
 {
-    "title": "'Exceptionally dangerous situation:' Historic California heat wave putting millions at risk",
-    "domain": "latimes.com",
+    "title": "'The Labour Party has won this general election': Sunak concedes defeat",
+    "domain": "news.sky.com",
     "category": "news",
-    "link": "https://www.latimes.com/california/story/2024-07-03/dangerous-california-heat-wave?utm_source=reddit.com",
-    "timestamp": 1720068098,
-    "recorded": "July 4, 2024 12:41 AM"
+    "link": "https://news.sky.com/story/the-labour-party-has-won-this-general-election-sunak-concedes-defeat-13162921",
+    "timestamp": 1720153262,
+    "recorded": "July 5, 2024 12:21 AM"
 }
 ```
 
