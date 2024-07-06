@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 5, 2024 9:54 PM
+- Updated: Jul 6, 2024 9:54 AM
 
 ```
 {
-    "title": "'The Labour Party has won this general election': Sunak concedes defeat",
-    "domain": "news.sky.com",
-    "category": "news",
-    "link": "https://news.sky.com/story/the-labour-party-has-won-this-general-election-sunak-concedes-defeat-13162921",
-    "timestamp": 1720153262,
-    "recorded": "July 5, 2024 12:21 AM"
+    "title": "Ukraine's airfields under fire as Russia braces for F-16s",
+    "domain": "kyivindependent.com",
+    "category": "worldnews",
+    "link": "https://kyivindependent.com/russia-strikes-ukrainian-airfields-ahead-of-f-16-arrival/",
+    "timestamp": 1720239567,
+    "recorded": "July 6, 2024 12:19 AM"
 }
 ```
 
