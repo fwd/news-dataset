@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 6, 2024 9:54 PM
+- Updated: Jul 7, 2024 9:54 AM
 
 ```
 {
-    "title": "Ukraine's airfields under fire as Russia braces for F-16s",
-    "domain": "kyivindependent.com",
-    "category": "worldnews",
-    "link": "https://kyivindependent.com/russia-strikes-ukrainian-airfields-ahead-of-f-16-arrival/",
-    "timestamp": 1720239567,
-    "recorded": "July 6, 2024 12:19 AM"
+    "title": "Biden-Harris Administration Approves Ninth Offshore Wind Project",
+    "domain": "doi.gov",
+    "category": "politics",
+    "link": "https://www.doi.gov/pressreleases/biden-harris-administration-approves-ninth-offshore-wind-project",
+    "timestamp": 1720327320,
+    "recorded": "July 7, 2024 12:42 AM"
 }
 ```
 
