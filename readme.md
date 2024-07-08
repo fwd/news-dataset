@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 71k
+- Articles: 72k
 - File Type: JSON
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 7, 2024 9:54 PM
+- Updated: Jul 8, 2024 9:54 AM
 
 ```
 {
-    "title": "Scientists re-emerge after a year in Mars simulation project – DW",
-    "domain": "dw.com",
+    "title": "U.S. ambassador to Japan expresses regret over alleged sex assaults by military personnel in Okinawa",
+    "domain": "cbsnews.com",
     "category": "worldnews",
-    "link": "https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838",
-    "timestamp": 1720331137,
-    "recorded": "July 7, 2024 1:45 AM"
+    "link": "https://www.cbsnews.com/news/us-ambassador-japan-regret-alleged-sex-assaults-military-personnel-okinawa/",
+    "timestamp": 1720412639,
+    "recorded": "July 8, 2024 12:23 AM"
 }
 ```
 
