@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 8, 2024 9:54 PM
+- Updated: Jul 9, 2024 9:54 AM
 
 ```
 {
-    "title": "NATO summit hosted by Joe Biden to show strong support for Ukraine",
-    "domain": "moneycontrol.com",
-    "category": "worldnews",
-    "link": "https://www.moneycontrol.com/news/world/nato-summit-hosted-by-joe-biden-to-show-strong-support-for-ukraine-12764076.html",
-    "timestamp": 1720413407,
-    "recorded": "July 8, 2024 12:36 AM"
+    "title": "New research has revealed that there are age-related changes in brain function in children who have attention deficit hyperactivity disorder (ADHD)",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41598-024-63658-9",
+    "timestamp": 1720499367,
+    "recorded": "July 9, 2024 12:29 AM"
 }
 ```
 
