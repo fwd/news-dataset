@@ -6,16 +6,16 @@
 - File Size: ~**27MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Jul 8, 2024 9:54 AM
+- Updated: Jul 8, 2024 9:54 PM
 
 ```
 {
-    "title": "U.S. ambassador to Japan expresses regret over alleged sex assaults by military personnel in Okinawa",
-    "domain": "cbsnews.com",
+    "title": "NATO summit hosted by Joe Biden to show strong support for Ukraine",
+    "domain": "moneycontrol.com",
     "category": "worldnews",
-    "link": "https://www.cbsnews.com/news/us-ambassador-japan-regret-alleged-sex-assaults-military-personnel-okinawa/",
-    "timestamp": 1720412639,
-    "recorded": "July 8, 2024 12:23 AM"
+    "link": "https://www.moneycontrol.com/news/world/nato-summit-hosted-by-joe-biden-to-show-strong-support-for-ukraine-12764076.html",
+    "timestamp": 1720413407,
+    "recorded": "July 8, 2024 12:36 AM"
 }
 ```
 
